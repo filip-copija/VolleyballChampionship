@@ -1,0 +1,1001 @@
+player_id,player_name,date_of_birth,position,team_id
+1,Debbie Carlson,1999-07-01,Setter,1
+2,Shawn Garza,1994-11-18,Opposite Hitter,1
+3,Nicholas Walsh,1988-02-27,Libero,1
+4,Shirley Hudson,1997-07-14,Libero,1
+5,Brian Fuller,1987-05-26,Setter,1
+6,Jessica Fowler,1988-02-13,Outside Hitter,1
+7,Alexandria Banks,1987-04-25,Libero,1
+8,Stanley Mendoza,1986-02-12,Middle Blocker,1
+9,Mary Jensen,1989-02-24,Middle Blocker,1
+10,Courtney Taylor,1994-11-01,Setter,1
+11,Donna Meyer,1994-12-13,Opposite Hitter,2
+12,Jacob Ortiz,1985-10-23,Opposite Hitter,2
+13,Rose Pineda,1995-01-27,Setter,2
+14,Jason Johnson,1996-06-01,Setter,2
+15,Paul Gutierrez,2002-09-08,Outside Hitter,2
+16,Matthew Holloway,1994-04-14,Outside Hitter,2
+17,Kevin Choi,2005-11-12,Libero,2
+18,Carol Terry,2000-09-01,Opposite Hitter,2
+19,Deborah Fernandez,1997-02-05,Middle Blocker,2
+20,Jeremy Ford,1987-01-21,Setter,2
+21,Tiffany Smith,1995-05-26,Outside Hitter,3
+22,Megan Dixon,1994-12-30,Outside Hitter,3
+23,Heather Horne,1983-10-03,Outside Hitter,3
+24,Jennifer Turner,2000-05-19,Libero,3
+25,Jim Morales,1994-02-22,Middle Blocker,3
+26,Melissa Smith,1994-08-30,Middle Blocker,3
+27,Brandi Gray,1994-09-15,Libero,3
+28,Dustin Castillo,2006-01-27,Outside Hitter,3
+29,Martin Rose,1985-08-01,Outside Hitter,3
+30,James Williams,1996-02-22,Opposite Hitter,3
+31,Michael Floyd,2001-09-27,Libero,4
+32,Abigail Gonzalez,1988-04-23,Middle Blocker,4
+33,Jessica Curtis,2002-07-22,Setter,4
+34,Calvin Jones,1989-11-01,Outside Hitter,4
+35,Billy Young,1991-05-22,Opposite Hitter,4
+36,Angela Townsend,1992-05-28,Libero,4
+37,Regina George,1984-03-30,Opposite Hitter,4
+38,Michael Davis,1992-06-09,Setter,4
+39,Jeremy Fry,2004-03-05,Libero,4
+40,Susan Gonzalez,1993-01-14,Setter,4
+41,Megan Smith,2001-12-21,Setter,5
+42,Eric Gray,1989-01-25,Opposite Hitter,5
+43,Diana Bell,1997-05-09,Libero,5
+44,Nicholas Lawson,2000-10-10,Outside Hitter,5
+45,Jorge Ross,1995-03-02,Setter,5
+46,Kevin Gamble,2000-07-28,Outside Hitter,5
+47,Jody Stephens,1990-11-27,Outside Hitter,5
+48,Robert Jackson,1996-10-24,Middle Blocker,5
+49,Kathleen Shelton,1997-02-24,Outside Hitter,5
+50,James Lynch,2004-10-12,Libero,5
+51,Michelle Prince,1995-07-02,Setter,6
+52,Donna Brown,2005-06-06,Opposite Hitter,6
+53,William Grimes,2001-08-18,Opposite Hitter,6
+54,Todd Murphy,2003-05-02,Middle Blocker,6
+55,Katherine Clark,2004-08-12,Middle Blocker,6
+56,Paul Avila,2003-09-17,Setter,6
+57,Brandon Stanley,2003-10-29,Opposite Hitter,6
+58,Mark Kelly,1984-10-07,Middle Blocker,6
+59,Courtney Dudley,2003-03-26,Outside Hitter,6
+60,Gregory Thomas,1985-03-27,Libero,6
+61,Emily Bass,1995-11-27,Middle Blocker,7
+62,Brian Dawson,1989-07-05,Libero,7
+63,Samantha Olson,1999-09-12,Outside Hitter,7
+64,Sandy Delgado,2004-06-09,Libero,7
+65,Eric Molina,2004-11-21,Setter,7
+66,Ray Smith,2006-03-09,Opposite Hitter,7
+67,Janet Gomez,1993-11-10,Opposite Hitter,7
+68,Jonathan Lambert,1989-10-19,Opposite Hitter,7
+69,Gina Reed,1989-05-23,Setter,7
+70,Keith Kirby,1994-07-14,Libero,7
+71,Steven Thompson,1999-06-02,Opposite Hitter,8
+72,Mary Hayes,1994-03-16,Setter,8
+73,Stefanie Molina,1993-12-31,Opposite Hitter,8
+74,Joel Newman,1990-11-05,Setter,8
+75,Joseph Adams,2001-09-19,Libero,8
+76,Carrie Gross,1985-01-01,Opposite Hitter,8
+77,Angela Baker,1990-06-26,Opposite Hitter,8
+78,Patricia Miller,2000-06-30,Setter,8
+79,Michaela Parks,1989-06-23,Opposite Hitter,8
+80,Donna Hampton,1988-08-05,Libero,8
+81,Chelsey Williamson,1988-05-17,Outside Hitter,9
+82,Michael Mccormick,1987-09-28,Setter,9
+83,Christine Jones,2003-05-30,Outside Hitter,9
+84,Andrew Duncan,1996-09-28,Libero,9
+85,Bryan Dodson,1987-01-01,Libero,9
+86,Jennifer Garrett,1994-03-06,Libero,9
+87,Melissa Austin,1994-03-12,Setter,9
+88,Andrea Taylor,2003-09-21,Setter,9
+89,Daniel Arroyo,1986-09-17,Setter,9
+90,Samantha Powell,1995-09-18,Middle Blocker,9
+91,Robert Reed,1991-09-23,Libero,10
+92,Anthony Harris,1993-02-10,Opposite Hitter,10
+93,Grant Ross,2004-09-05,Setter,10
+94,Alexa Santos,2006-02-18,Outside Hitter,10
+95,Andrea Howard,1987-06-17,Middle Blocker,10
+96,Joseph Tyler,1993-06-05,Middle Blocker,10
+97,Denise Baker,2001-01-17,Outside Hitter,10
+98,Stanley Crawford,2005-10-01,Opposite Hitter,10
+99,Dustin Fowler,1988-01-02,Middle Blocker,10
+100,Lisa Smith,2005-09-14,Opposite Hitter,10
+101,Lisa Yoder,1989-11-14,Middle Blocker,11
+102,Nicole Frazier,1994-06-19,Libero,11
+103,Susan Buchanan,1987-02-05,Libero,11
+104,Gail Carter,2000-03-07,Middle Blocker,11
+105,Taylor Richardson,1989-05-26,Setter,11
+106,Michael Campbell,1992-07-23,Outside Hitter,11
+107,Emily Porter,1995-09-25,Setter,11
+108,Michael Howard,1996-05-01,Outside Hitter,11
+109,Adam Aguilar,2002-05-26,Libero,11
+110,John Wright MD,1983-07-14,Opposite Hitter,11
+111,Beth Gilmore,1992-03-30,Libero,12
+112,Megan Shepherd,1991-08-04,Middle Blocker,12
+113,Leah Stone,1993-04-10,Opposite Hitter,12
+114,Robin Haynes,1999-08-03,Setter,12
+115,Kimberly Martinez,1986-12-04,Opposite Hitter,12
+116,Mr. Benjamin Thomas DVM,1990-03-15,Outside Hitter,12
+117,Lisa Smith,2001-03-22,Setter,12
+118,Jimmy Sanders,1994-04-01,Setter,12
+119,Joshua Sims,1989-01-22,Middle Blocker,12
+120,Makayla Escobar,2002-06-11,Outside Hitter,12
+121,Joshua Li,1985-02-03,Outside Hitter,13
+122,Diane Wilson,2006-03-11,Middle Blocker,13
+123,David Hodges,1995-05-04,Setter,13
+124,Sarah Orozco,1995-02-09,Outside Hitter,13
+125,Dennis Burke,1998-07-02,Setter,13
+126,Yvonne Mullins,2004-11-11,Outside Hitter,13
+127,Daisy Hernandez,1995-05-23,Opposite Hitter,13
+128,Mark Castillo,1989-06-14,Opposite Hitter,13
+129,George Yoder,1989-01-08,Middle Blocker,13
+130,Dakota Diaz,1984-04-05,Libero,13
+131,Megan Garcia,2000-05-25,Libero,14
+132,Annette Moore,1996-11-08,Setter,14
+133,Eric Dixon,1993-11-18,Middle Blocker,14
+134,Andrew Cook,2002-07-18,Opposite Hitter,14
+135,Christopher Powell,1997-07-08,Middle Blocker,14
+136,Larry Hawkins,2005-08-09,Outside Hitter,14
+137,Veronica White,1995-10-18,Libero,14
+138,Michael Bonilla,1990-09-27,Opposite Hitter,14
+139,Renee Henry,1991-10-15,Opposite Hitter,14
+140,Gloria Nguyen,1990-11-16,Libero,14
+141,Brendan Jones,1997-09-10,Opposite Hitter,15
+142,Randy Berger,2001-08-13,Middle Blocker,15
+143,Larry Maldonado,2002-08-30,Libero,15
+144,Mark Miller,1986-05-02,Opposite Hitter,15
+145,Charlene Rivera MD,2000-10-27,Middle Blocker,15
+146,Gina Bonilla,2001-07-18,Middle Blocker,15
+147,Brian Gilbert,1997-07-07,Middle Blocker,15
+148,Kerri Johnson,1995-02-09,Setter,15
+149,Kevin Cruz,2005-12-09,Middle Blocker,15
+150,Judy Casey,1990-01-27,Libero,15
+151,John Barrera,1985-02-06,Outside Hitter,16
+152,Carl Wise,2002-01-18,Outside Hitter,16
+153,Diana Evans,1998-07-10,Libero,16
+154,Lisa Doyle,1990-10-09,Opposite Hitter,16
+155,Jennifer Sosa,1993-10-26,Setter,16
+156,Nancy Gonzalez,1999-08-31,Libero,16
+157,Hannah Hodges,1993-06-25,Middle Blocker,16
+158,Jerry Thomas,2005-12-24,Outside Hitter,16
+159,Ethan Hancock,2003-07-07,Outside Hitter,16
+160,Danielle Wheeler,1998-05-22,Outside Hitter,16
+161,Michelle Chavez DDS,1994-11-09,Setter,17
+162,Gary Wallace,1987-01-16,Middle Blocker,17
+163,William Gonzalez,1991-03-23,Middle Blocker,17
+164,Michael Russell,1990-01-05,Setter,17
+165,Michael Beck,1991-07-02,Outside Hitter,17
+166,Matthew Freeman,1995-02-15,Outside Hitter,17
+167,Carlos Smith II,2006-05-06,Middle Blocker,17
+168,Wesley Lewis,1992-04-24,Outside Hitter,17
+169,Jerome Jackson,1990-03-11,Outside Hitter,17
+170,Jeremy Hall,1987-08-08,Outside Hitter,17
+171,Aaron Murphy,1986-04-23,Opposite Hitter,18
+172,Anna Guzman,1990-11-01,Setter,18
+173,James Petersen,2003-02-04,Libero,18
+174,Heather Rodriguez,1993-03-16,Middle Blocker,18
+175,Sylvia Smith,1997-12-06,Libero,18
+176,Charles Sanchez,1985-09-09,Middle Blocker,18
+177,Ashley Gates,2005-01-08,Libero,18
+178,William Walker,1984-07-05,Middle Blocker,18
+179,Jennifer Burns PhD,1989-09-12,Outside Hitter,18
+180,Charles Jacobs,1989-10-10,Setter,18
+181,Nicholas Rose,1988-10-18,Middle Blocker,19
+182,Heidi Hamilton,1992-11-06,Opposite Hitter,19
+183,Ryan Brock,1994-01-23,Opposite Hitter,19
+184,Jasmine Ellis,1991-05-25,Middle Blocker,19
+185,Anna Powell,1989-09-01,Middle Blocker,19
+186,Mary Alvarado,2001-02-01,Opposite Hitter,19
+187,Dr. Cheryl Pierce,1996-11-15,Middle Blocker,19
+188,Kathleen Taylor,2004-11-10,Outside Hitter,19
+189,Frank Poole,2001-04-03,Opposite Hitter,19
+190,Tina Reyes,1988-06-29,Setter,19
+191,Melissa Frost,2002-01-16,Setter,20
+192,Stanley Sullivan,2000-08-10,Outside Hitter,20
+193,Marvin Luna,1995-02-27,Libero,20
+194,Megan Goodman,2001-04-19,Middle Blocker,20
+195,Lauren Fleming,1994-01-30,Outside Hitter,20
+196,Chelsea Gray,2003-09-05,Libero,20
+197,John Oneal,1997-01-14,Middle Blocker,20
+198,Andrew Collins,1990-12-24,Outside Hitter,20
+199,Samantha Gates,1999-06-29,Middle Blocker,20
+200,Tara Sellers,1999-06-21,Middle Blocker,20
+201,Timothy Morgan,1993-05-18,Outside Hitter,21
+202,Eric Owens,1992-12-16,Opposite Hitter,21
+203,Stephen Carpenter,1989-08-06,Setter,21
+204,Matthew Banks,2005-01-29,Setter,21
+205,Suzanne Warner,2000-04-24,Libero,21
+206,Joshua Ward,1990-01-30,Middle Blocker,21
+207,Stephanie Wallace MD,2000-09-16,Setter,21
+208,Patricia Allen,2001-04-02,Middle Blocker,21
+209,Anthony Delgado,1997-04-01,Libero,21
+210,Dorothy Arias,2003-03-24,Middle Blocker,21
+211,Lawrence Neal,1985-05-15,Outside Hitter,22
+212,Anthony Brown DDS,1999-09-01,Outside Hitter,22
+213,Michael Holt,2005-06-01,Outside Hitter,22
+214,Barbara Brown,2000-07-31,Opposite Hitter,22
+215,Jared Jackson,1987-12-28,Setter,22
+216,Jonathan Walker,1993-02-10,Opposite Hitter,22
+217,Scott Wheeler,2002-09-28,Opposite Hitter,22
+218,David Leach,1996-11-27,Opposite Hitter,22
+219,Jade Williams,1991-02-14,Outside Hitter,22
+220,William Green,1999-03-06,Middle Blocker,22
+221,Lindsay Buckley,2006-05-18,Libero,23
+222,Justin Munoz,1998-07-05,Outside Hitter,23
+223,Christian Williams,1992-09-09,Setter,23
+224,Erica Casey,2002-04-11,Middle Blocker,23
+225,Brittany Lee,1994-11-04,Outside Hitter,23
+226,Andrew Carter,1999-04-14,Middle Blocker,23
+227,Brian Williams,2002-10-17,Libero,23
+228,Rebecca Garcia,1998-06-04,Opposite Hitter,23
+229,Sean Oneal,1992-12-19,Libero,23
+230,Kenneth Harris,2003-12-16,Libero,23
+231,Elizabeth Mosley,1997-04-10,Opposite Hitter,24
+232,William Burns,2005-04-02,Middle Blocker,24
+233,Amy Keith,1986-02-05,Libero,24
+234,Kaitlyn Smith,1989-05-18,Middle Blocker,24
+235,Mrs. Tina Lane,1985-12-08,Libero,24
+236,Adam Morales,1991-05-23,Outside Hitter,24
+237,Kristina Medina,1990-01-20,Libero,24
+238,Christina Henson,2003-12-11,Libero,24
+239,Billy Cervantes,1990-05-30,Setter,24
+240,Charles King,1999-03-21,Setter,24
+241,Kaylee Costa,1988-04-28,Opposite Hitter,25
+242,Jason Boyd,2003-05-09,Middle Blocker,25
+243,Matthew Richards DDS,2003-12-08,Setter,25
+244,Dustin Combs,2001-03-23,Middle Blocker,25
+245,Luis Miller,1989-07-12,Setter,25
+246,Ian Harris,2004-02-18,Libero,25
+247,Adam Hall,1994-04-20,Opposite Hitter,25
+248,Scott Howard,1983-09-02,Outside Hitter,25
+249,Joanne Martinez,2003-09-06,Middle Blocker,25
+250,Marcus Murray,1992-08-23,Setter,25
+251,Patricia Cochran,1985-08-28,Outside Hitter,26
+252,Victoria Rodriguez,2003-06-09,Middle Blocker,26
+253,Megan Horton,1992-11-03,Setter,26
+254,Allen Meyer,1998-11-15,Opposite Hitter,26
+255,Taylor Brown,1991-01-19,Libero,26
+256,Teresa Bishop,1986-03-26,Middle Blocker,26
+257,Joanna Wilson,1986-10-28,Outside Hitter,26
+258,Sherry Meza,2002-09-10,Libero,26
+259,Linda Spence,1990-01-09,Middle Blocker,26
+260,Ana Wright,1984-08-25,Outside Hitter,26
+261,Holly Davis,2006-06-02,Setter,27
+262,Brian Brooks,1989-06-22,Setter,27
+263,Toni Coleman,1990-04-28,Setter,27
+264,Michelle Wilson,1992-02-08,Libero,27
+265,Erika Miller,1992-05-14,Setter,27
+266,Luis Weiss,2003-07-23,Setter,27
+267,Shannon Hunt,1987-08-15,Middle Blocker,27
+268,Mark Powell,1988-10-28,Setter,27
+269,Laura Rodriguez,1984-08-12,Middle Blocker,27
+270,Timothy Morris MD,2006-02-21,Libero,27
+271,Jill Olson,1989-03-08,Outside Hitter,28
+272,Brandon Griffith,1985-07-10,Libero,28
+273,Charlotte Coleman,1984-03-24,Middle Blocker,28
+274,Karen Wallace,1985-10-18,Opposite Hitter,28
+275,Sarah Richardson,1985-08-04,Opposite Hitter,28
+276,Catherine Johnson,1995-07-23,Libero,28
+277,Christopher Willis,1986-08-14,Outside Hitter,28
+278,Jacqueline Blackwell,1983-08-20,Opposite Hitter,28
+279,Jennifer Alvarez,1993-12-18,Outside Hitter,28
+280,Jamie Atkinson,1987-03-02,Setter,28
+281,Arthur Thomas,1994-02-08,Setter,29
+282,Lindsey Nichols,1999-09-03,Libero,29
+283,Destiny Mccormick,1986-02-05,Setter,29
+284,Alyssa Ayers,1989-08-15,Middle Blocker,29
+285,Brenda Miller,1986-10-08,Setter,29
+286,Michael Mcgee,2000-01-25,Opposite Hitter,29
+287,Megan Huynh,1999-01-16,Middle Blocker,29
+288,Jeremy Colon,2005-03-25,Outside Hitter,29
+289,Amy Roberts,2000-01-13,Setter,29
+290,Rebecca Ramirez,1995-04-10,Setter,29
+291,Alex Nguyen,1991-12-29,Libero,30
+292,Sara Gray,1989-11-26,Setter,30
+293,Jacob Rhodes MD,1996-09-12,Outside Hitter,30
+294,Chelsea Bentley,1988-11-17,Setter,30
+295,Bethany Shaw,1996-10-13,Libero,30
+296,Joseph Brown,1993-07-10,Opposite Hitter,30
+297,Robert Perkins,2000-06-25,Outside Hitter,30
+298,Amanda Mueller,2001-06-15,Middle Blocker,30
+299,Dwayne Chavez,1997-05-02,Libero,30
+300,Anne Lewis,2005-01-30,Setter,30
+301,John Alvarez,1986-11-16,Setter,31
+302,Charles Strickland,1999-01-13,Libero,31
+303,Shelley Peterson,1991-12-28,Middle Blocker,31
+304,Andrew Wood,1990-06-28,Outside Hitter,31
+305,Amber Johnson,1999-05-20,Middle Blocker,31
+306,Marissa Porter,1999-02-20,Outside Hitter,31
+307,Gail Garza,2005-07-20,Setter,31
+308,Megan Kelley,1998-11-21,Opposite Hitter,31
+309,Scott Flores,1987-07-25,Opposite Hitter,31
+310,Stanley Barnes,2005-10-08,Libero,31
+311,Benjamin Walker,2000-01-08,Opposite Hitter,32
+312,Brittany Campbell,1994-03-29,Libero,32
+313,Mr. Michael Green PhD,1987-03-11,Outside Hitter,32
+314,Barbara Jones,1997-09-03,Libero,32
+315,Shawn Salas,2000-03-01,Middle Blocker,32
+316,Jonathon Collins,2006-06-20,Opposite Hitter,32
+317,Kelly Stevens,1987-08-28,Opposite Hitter,32
+318,Veronica Pitts,1989-05-24,Middle Blocker,32
+319,Charlene Owens,2003-01-11,Middle Blocker,32
+320,Lauren Figueroa,1996-04-04,Middle Blocker,32
+321,Angela Petty,2005-03-23,Middle Blocker,33
+322,Andrea Lopez,2004-12-17,Opposite Hitter,33
+323,Victoria Walker,2001-10-06,Opposite Hitter,33
+324,Brianna Myers,2001-06-02,Middle Blocker,33
+325,Elizabeth Morgan,1997-09-21,Middle Blocker,33
+326,Sylvia Morris,1985-10-30,Opposite Hitter,33
+327,Daniel Long,1992-08-11,Outside Hitter,33
+328,Kayla Moore,1986-12-23,Setter,33
+329,James Schmidt DDS,2001-02-14,Setter,33
+330,Kevin Moore,1995-08-12,Libero,33
+331,Michelle Ward,1995-09-14,Opposite Hitter,34
+332,Mrs. Amy Sloan,1993-11-12,Opposite Hitter,34
+333,Heather West,1994-12-07,Opposite Hitter,34
+334,Travis Williams,1993-10-05,Outside Hitter,34
+335,April Dougherty,1997-06-06,Setter,34
+336,Amanda Cardenas,1999-02-02,Opposite Hitter,34
+337,Samantha Carter MD,1989-04-10,Middle Blocker,34
+338,Michelle Byrd,2004-04-09,Opposite Hitter,34
+339,Jessica Ochoa,1988-10-30,Opposite Hitter,34
+340,Kyle Cooper,1987-10-21,Opposite Hitter,34
+341,Amanda Ross,1994-05-24,Middle Blocker,35
+342,Cheryl Adams,1992-09-15,Outside Hitter,35
+343,Kevin Taylor,1987-05-11,Libero,35
+344,Gregory Mosley,1993-11-29,Outside Hitter,35
+345,Lindsay Clayton,1988-12-05,Opposite Hitter,35
+346,John Rivera,1989-09-19,Outside Hitter,35
+347,Adam Thomas,1995-01-23,Opposite Hitter,35
+348,Kimberly Conley,1996-01-02,Middle Blocker,35
+349,Megan Martinez,1984-03-01,Middle Blocker,35
+350,Theresa Valencia,2001-04-20,Middle Blocker,35
+351,Erica Lee,1991-05-01,Middle Blocker,36
+352,Jodi Yoder,1991-07-15,Libero,36
+353,Hannah Patel,1985-06-22,Outside Hitter,36
+354,Yvonne Shaw,2001-09-02,Libero,36
+355,Tyler Mccullough,1988-04-02,Outside Hitter,36
+356,Ashley Li,1998-02-17,Opposite Hitter,36
+357,Emily Thomas,1989-09-17,Middle Blocker,36
+358,Kimberly Roberts,1993-12-19,Middle Blocker,36
+359,Bryan George,1991-08-20,Setter,36
+360,Thomas Martinez,1999-09-11,Outside Hitter,36
+361,Thomas Medina,2002-06-15,Setter,37
+362,Jasmine Williams,2005-08-27,Libero,37
+363,Elizabeth Vargas,1986-04-19,Opposite Hitter,37
+364,Brittney Rice,1985-01-09,Opposite Hitter,37
+365,Melissa Fleming,1988-08-01,Outside Hitter,37
+366,Suzanne Ellis,1996-02-05,Middle Blocker,37
+367,Tony Garcia,1984-12-29,Middle Blocker,37
+368,Thomas Crane,1988-02-12,Outside Hitter,37
+369,Barry Walls,2004-02-02,Opposite Hitter,37
+370,Christopher Mcgee,1990-12-17,Opposite Hitter,37
+371,Tonya Ward,1993-10-03,Libero,38
+372,Heather Jensen,2004-03-15,Libero,38
+373,Patrick Haynes,2000-06-30,Outside Hitter,38
+374,Linda Harding,1998-12-04,Setter,38
+375,Marc Harvey,2006-05-27,Middle Blocker,38
+376,Alexandra Miller,1986-09-13,Setter,38
+377,Charles Leblanc,1999-03-05,Outside Hitter,38
+378,Thomas Cox,1989-11-10,Middle Blocker,38
+379,Megan Livingston,2002-10-30,Middle Blocker,38
+380,Monique Fowler,1985-08-16,Middle Blocker,38
+381,Geoffrey Moyer,1983-08-29,Libero,39
+382,Natalie Brown,1985-08-03,Outside Hitter,39
+383,Shane Davis,1985-05-27,Setter,39
+384,Rebecca Walker,1986-12-13,Opposite Hitter,39
+385,Jonathan Cooper,1985-11-01,Outside Hitter,39
+386,Jennifer Brown,1991-07-29,Middle Blocker,39
+387,Alicia Carr,1986-04-18,Opposite Hitter,39
+388,Patricia Hernandez,1996-04-08,Outside Hitter,39
+389,Brenda Arellano,1995-01-09,Outside Hitter,39
+390,Christina Dennis,1991-02-14,Outside Hitter,39
+391,Kelly Torres,1986-08-04,Setter,40
+392,Jason Compton,1989-06-27,Outside Hitter,40
+393,Mrs. April Wade MD,2006-01-10,Middle Blocker,40
+394,Julia Moore DDS,1990-05-16,Opposite Hitter,40
+395,Christine Thompson,1987-01-23,Middle Blocker,40
+396,Janice Curtis,2001-03-16,Opposite Hitter,40
+397,Tonya York,1984-10-18,Libero,40
+398,Michelle Bailey,1991-06-15,Setter,40
+399,Gail Garcia,1998-04-18,Middle Blocker,40
+400,James Myers,1997-02-24,Setter,40
+401,Ashley Lopez,1998-04-06,Outside Hitter,41
+402,Martin Merritt,1986-03-05,Setter,41
+403,Michael Rodgers,1999-03-20,Middle Blocker,41
+404,Olivia Hardy,1995-01-13,Libero,41
+405,Bradley Fitzgerald,1995-06-12,Middle Blocker,41
+406,Jill Singleton,1985-07-16,Opposite Hitter,41
+407,Kathleen Fowler,1990-12-26,Middle Blocker,41
+408,Nicole Dunn,1999-03-12,Outside Hitter,41
+409,Brittany Ray,2005-10-19,Middle Blocker,41
+410,Julie Williams,2005-03-20,Outside Hitter,41
+411,Leslie Eaton,1998-12-31,Middle Blocker,42
+412,Steven Raymond,1985-10-22,Middle Blocker,42
+413,Jacob Hartman,1986-08-24,Middle Blocker,42
+414,Stephen Skinner,1990-02-07,Outside Hitter,42
+415,Donna Andersen,2003-10-22,Outside Hitter,42
+416,Sara Boyer,1990-06-13,Libero,42
+417,David Scott,2002-09-01,Setter,42
+418,Sonya Alvarez,1991-02-19,Setter,42
+419,Mark Turner,1994-03-17,Outside Hitter,42
+420,Deborah Norman,2001-07-15,Libero,42
+421,Alyssa Sanders,1993-03-06,Setter,43
+422,Jack Haas,1992-08-07,Opposite Hitter,43
+423,Cory Evans,1994-12-25,Middle Blocker,43
+424,Adam Jones,1997-10-01,Setter,43
+425,Mark Ferrell DDS,1989-03-03,Middle Blocker,43
+426,Courtney Snyder,2000-04-08,Setter,43
+427,Darren Hernandez,2001-01-15,Opposite Hitter,43
+428,Darren Herrera,1996-10-28,Opposite Hitter,43
+429,Mrs. Lori King,1983-10-03,Middle Blocker,43
+430,Jason Daniels,1994-03-18,Middle Blocker,43
+431,Jessica Hawkins,1987-02-07,Middle Blocker,44
+432,Stephen May,1994-12-13,Setter,44
+433,Daniel Rivera,1992-04-28,Outside Hitter,44
+434,Andrew Gibson,1988-02-28,Middle Blocker,44
+435,Ellen Mendez,1993-12-18,Outside Hitter,44
+436,Stacy Patrick,1993-04-09,Outside Hitter,44
+437,Jamie Mercado,2000-09-21,Opposite Hitter,44
+438,Summer Webb,1997-09-12,Setter,44
+439,Timothy Jones,2001-10-04,Libero,44
+440,Elizabeth Lynch,2003-11-13,Middle Blocker,44
+441,Brandy Morgan,2001-05-21,Opposite Hitter,45
+442,Margaret Dalton,1983-11-30,Middle Blocker,45
+443,Andre Thomas,1992-09-08,Opposite Hitter,45
+444,Andrew Marks,1986-10-01,Setter,45
+445,Nicholas Moreno,2000-04-16,Opposite Hitter,45
+446,Mr. Kevin Shaw,1993-03-09,Libero,45
+447,Samantha Christian,1993-07-02,Outside Hitter,45
+448,Steven Garrison,1986-03-01,Setter,45
+449,Mary Walsh,2000-05-19,Libero,45
+450,Donald Little,2005-12-07,Outside Hitter,45
+451,Kimberly Horton,1986-12-26,Outside Hitter,46
+452,Ashley Acevedo,1988-06-07,Setter,46
+453,Gary Price,2004-12-13,Libero,46
+454,Catherine Velazquez,1995-11-06,Libero,46
+455,Stacie Young,1996-09-21,Middle Blocker,46
+456,Dorothy Nguyen,1990-04-13,Libero,46
+457,Dr. Rodney Coleman,1990-08-09,Middle Blocker,46
+458,Cathy Brooks,2003-07-14,Outside Hitter,46
+459,Kristin Blair,1992-08-05,Middle Blocker,46
+460,Frank Bowen,1986-12-08,Outside Hitter,46
+461,Rebecca Henderson,2005-02-09,Setter,47
+462,Corey Anderson,1985-11-28,Setter,47
+463,Dr. Nicholas Herman IV,1985-09-17,Outside Hitter,47
+464,Michael Winters,1984-05-07,Outside Hitter,47
+465,Amy Adams,1985-06-05,Middle Blocker,47
+466,Michael Simmons,1985-04-09,Outside Hitter,47
+467,Michael Haney,1987-10-18,Setter,47
+468,Kaylee Joyce,2000-10-12,Middle Blocker,47
+469,Steven Williams,1988-09-14,Setter,47
+470,Paul Palmer,1996-10-28,Setter,47
+471,Karen Freeman,1996-03-25,Middle Blocker,48
+472,Jonathan Michael,1984-06-27,Middle Blocker,48
+473,Andrew Stone,1997-11-14,Middle Blocker,48
+474,Thomas Hayes,1987-07-28,Libero,48
+475,Kelli Wallace,1996-10-19,Libero,48
+476,Donald Sharp,2004-05-29,Libero,48
+477,Jaime Carter,2001-12-26,Outside Hitter,48
+478,Kenneth Campbell,1999-12-27,Libero,48
+479,James Beck,1995-05-23,Outside Hitter,48
+480,Michael Graham,1987-06-13,Libero,48
+481,Janet Costa,1999-06-30,Outside Hitter,49
+482,Ronald King,2004-12-31,Opposite Hitter,49
+483,Matthew Cole,1992-12-15,Libero,49
+484,Latoya Giles,2000-09-13,Setter,49
+485,Alejandro Acosta,1988-10-29,Middle Blocker,49
+486,Paul Roberts,1985-01-12,Setter,49
+487,Courtney Rose,1991-10-06,Middle Blocker,49
+488,Jason Gomez,1990-04-09,Middle Blocker,49
+489,Laura Bell,1988-05-16,Outside Hitter,49
+490,Hunter Brown,1991-06-17,Setter,49
+491,Roy Cooley,1990-05-02,Outside Hitter,50
+492,Elijah Rodriguez,1999-05-16,Opposite Hitter,50
+493,Gabriel Reid,2004-04-27,Libero,50
+494,Nancy Espinoza,2002-11-15,Opposite Hitter,50
+495,Sherry Mccoy,1990-12-13,Middle Blocker,50
+496,Sylvia Vaughan,1995-09-04,Outside Hitter,50
+497,Sean Cox,2006-06-05,Setter,50
+498,Zachary Farley,2005-08-22,Opposite Hitter,50
+499,Sarah Sanders,1994-09-24,Setter,50
+500,Micheal Mendoza,1997-01-04,Outside Hitter,50
+501,John Kelley,1997-06-03,Outside Hitter,51
+502,Benjamin Robbins,2000-02-12,Outside Hitter,51
+503,Amanda Reyes,2002-12-30,Middle Blocker,51
+504,Kelly Grant,2000-08-08,Outside Hitter,51
+505,Michael Chandler,2002-09-12,Opposite Hitter,51
+506,Kimberly Olson,1989-01-05,Outside Hitter,51
+507,Dr. Matthew Adkins MD,1999-04-12,Middle Blocker,51
+508,Joseph Robinson,2001-06-15,Outside Hitter,51
+509,Alexandria Pearson,2004-03-16,Libero,51
+510,Leslie Bowers,1990-03-21,Outside Hitter,51
+511,Gary Martinez,2002-11-01,Setter,52
+512,Michael House,2001-06-27,Opposite Hitter,52
+513,Jacqueline Griffin,1996-12-19,Middle Blocker,52
+514,William Green,2001-05-19,Setter,52
+515,Joseph Rice,1984-01-16,Opposite Hitter,52
+516,Nicole Henry,2003-01-06,Setter,52
+517,Troy Russo,1988-12-07,Outside Hitter,52
+518,Larry Allen,1992-10-19,Outside Hitter,52
+519,Matthew West DDS,2003-05-11,Outside Hitter,52
+520,Franklin Sanchez,2000-07-13,Opposite Hitter,52
+521,Tara Webster,1993-02-10,Middle Blocker,53
+522,Peter Anderson,1985-03-18,Middle Blocker,53
+523,April Garcia MD,1993-05-17,Middle Blocker,53
+524,Monica Bowman,1986-12-30,Opposite Hitter,53
+525,Nicole Thomas,2000-07-21,Libero,53
+526,Justin Davis,1995-07-09,Middle Blocker,53
+527,Jordan Mills,1992-02-11,Opposite Hitter,53
+528,Karen Davis,1999-09-01,Middle Blocker,53
+529,Scott Bailey,2004-07-11,Setter,53
+530,Frank Mcgee,1999-12-11,Libero,53
+531,Katrina Nichols,1985-07-08,Setter,54
+532,William Clark,1992-06-15,Outside Hitter,54
+533,Kristin Hayes,2002-04-25,Libero,54
+534,Lisa Poole,1988-07-28,Opposite Hitter,54
+535,Lindsey Martinez,1993-04-12,Opposite Hitter,54
+536,William Orr,1998-11-12,Libero,54
+537,Glen Harrison,2000-01-28,Opposite Hitter,54
+538,Mr. Craig Johnston MD,1991-05-29,Outside Hitter,54
+539,Amy Lee,1992-01-07,Outside Hitter,54
+540,Andrew Warren,1995-03-27,Libero,54
+541,Brittany West,1997-05-27,Libero,55
+542,Jackie Berry,2000-11-04,Setter,55
+543,Jonathan Garner,1996-08-20,Setter,55
+544,Chris Lawson,2001-02-02,Opposite Hitter,55
+545,Haley Garcia,1998-09-13,Libero,55
+546,Thomas Kelley,1989-03-23,Outside Hitter,55
+547,Kimberly Edwards,1992-08-21,Outside Hitter,55
+548,Jessica Roberts,1999-06-16,Libero,55
+549,Travis Terry,1987-11-11,Libero,55
+550,Lindsay Berry,1989-10-20,Setter,55
+551,Isabella Wilson,2003-07-09,Setter,56
+552,Debra Lewis DDS,1984-09-05,Middle Blocker,56
+553,Christian Henderson,1984-02-06,Setter,56
+554,David Smith,1990-12-09,Libero,56
+555,Marvin Bauer,2002-01-26,Setter,56
+556,Marcus Garner,1987-09-07,Middle Blocker,56
+557,Pam Bruce,1984-10-16,Outside Hitter,56
+558,Amber Adams,2004-04-10,Opposite Hitter,56
+559,George Pugh,1990-11-08,Setter,56
+560,Lisa Bennett,2001-11-07,Setter,56
+561,Heather Smith,1992-10-19,Outside Hitter,57
+562,Christopher Lawson,1987-06-17,Middle Blocker,57
+563,Michelle Turner,1989-01-13,Opposite Hitter,57
+564,Nicole Taylor,1989-02-12,Libero,57
+565,Diana Ford,2005-04-23,Middle Blocker,57
+566,Michael Higgins,2004-07-19,Libero,57
+567,Gary Jones,1992-01-14,Middle Blocker,57
+568,Matthew Miller,1985-10-24,Setter,57
+569,Franklin Martin,2003-08-07,Libero,57
+570,Michael Holloway,1996-01-11,Libero,57
+571,Sean Gregory,1989-01-08,Setter,58
+572,Emily Jacobs,2005-08-09,Middle Blocker,58
+573,Tina Hunt,2000-05-03,Setter,58
+574,Megan Smith,2003-02-25,Opposite Hitter,58
+575,Ashley Mcmillan,1995-05-19,Middle Blocker,58
+576,Crystal Morrison,1984-03-01,Libero,58
+577,Luis Galvan,2003-12-21,Middle Blocker,58
+578,Alexis Washington,1991-02-17,Setter,58
+579,Monica Burch,1992-01-13,Opposite Hitter,58
+580,Christopher Martinez,2004-07-29,Libero,58
+581,Jesse Page,2004-01-27,Outside Hitter,59
+582,Shane Graham,1984-08-09,Libero,59
+583,Jasmine Castro,1990-09-16,Libero,59
+584,Michelle Delgado MD,1994-09-23,Setter,59
+585,Cindy Walker,2001-06-17,Middle Blocker,59
+586,Kayla Duarte,1985-12-23,Outside Hitter,59
+587,Alex Hurst,1994-09-26,Libero,59
+588,Nicole Davis,2002-04-27,Opposite Hitter,59
+589,Stephen Olson,1996-07-13,Outside Hitter,59
+590,Daniel Martinez,1989-08-10,Libero,59
+591,Dr. Haley Lewis,2001-11-02,Libero,60
+592,Thomas Morrison,2001-09-06,Setter,60
+593,Nicholas Smith,1991-01-03,Libero,60
+594,Jeremy Garza,2002-06-02,Opposite Hitter,60
+595,Phillip House,2003-05-25,Libero,60
+596,Paul Leonard,1990-04-24,Libero,60
+597,Tyler Howe,2004-04-17,Outside Hitter,60
+598,Ashley Baker,1995-08-09,Outside Hitter,60
+599,John Kim,1992-03-30,Opposite Hitter,60
+600,Sally Hernandez,1996-05-30,Outside Hitter,60
+601,Ashley Andersen,2001-07-23,Outside Hitter,61
+602,Michelle Miller MD,1991-03-08,Outside Hitter,61
+603,Tina Franco,1994-07-20,Middle Blocker,61
+604,Lisa Moreno,1997-12-11,Outside Hitter,61
+605,Anita Perez PhD,1995-12-14,Libero,61
+606,Charles Fletcher,1988-09-22,Outside Hitter,61
+607,Wayne Velasquez,2000-10-31,Opposite Hitter,61
+608,Jennifer Mcbride,1987-07-08,Setter,61
+609,Anthony Cooper,2006-01-12,Middle Blocker,61
+610,Ruth Kim,2005-05-21,Outside Hitter,61
+611,Ariel Jordan,1999-03-13,Libero,62
+612,John Meyers,1992-03-07,Middle Blocker,62
+613,Nancy Harrell,2004-09-11,Opposite Hitter,62
+614,Craig Parker,2001-10-25,Outside Hitter,62
+615,Melanie Brown,1984-01-01,Setter,62
+616,Nancy Oneill,1988-04-24,Setter,62
+617,Jacob George,1992-01-15,Outside Hitter,62
+618,Brianna Welch,1988-02-23,Setter,62
+619,Natasha Ford,2004-11-11,Libero,62
+620,Martin Gomez,1986-06-10,Outside Hitter,62
+621,Perry Davis,1992-08-16,Outside Hitter,63
+622,Kimberly Lynch,1985-03-28,Setter,63
+623,Brittany Jenkins,2004-07-25,Middle Blocker,63
+624,Michael Parks,1987-05-03,Outside Hitter,63
+625,Jose Clarke,1988-02-11,Opposite Hitter,63
+626,John Clark MD,1997-03-08,Libero,63
+627,Luis Sullivan,2003-09-12,Setter,63
+628,Samantha Quinn,1992-03-05,Opposite Hitter,63
+629,Debra Guerra DVM,1998-01-11,Libero,63
+630,Vincent Jennings,1998-04-01,Setter,63
+631,Rachael Pearson,1989-01-17,Setter,64
+632,Kathleen Davis,1987-10-24,Libero,64
+633,Patricia Alvarado,1993-02-26,Opposite Hitter,64
+634,Austin Sanchez,1995-09-26,Middle Blocker,64
+635,Andrew Smith,1995-03-08,Opposite Hitter,64
+636,Amy Bowman,1998-01-16,Setter,64
+637,Jill Brown,1987-07-15,Outside Hitter,64
+638,Seth Johnson,1990-01-11,Opposite Hitter,64
+639,Wayne Rogers,1997-08-07,Opposite Hitter,64
+640,Lisa Hale,1986-10-17,Outside Hitter,64
+641,Heidi Schmidt,1985-08-13,Outside Hitter,65
+642,Dr. Robert Christian,2006-06-03,Outside Hitter,65
+643,Joseph Barnes,1983-12-27,Outside Hitter,65
+644,Timothy Smith,1996-05-16,Middle Blocker,65
+645,Robert Roy MD,1994-07-16,Libero,65
+646,Darren Smith,1989-01-14,Setter,65
+647,Sarah Harper,1992-07-25,Opposite Hitter,65
+648,Franklin Harris,1986-06-11,Outside Hitter,65
+649,George Ramirez,1985-05-24,Opposite Hitter,65
+650,William Edwards,2002-06-06,Setter,65
+651,Edgar Macdonald,1993-12-11,Opposite Hitter,66
+652,Edward Lewis,1989-04-06,Middle Blocker,66
+653,Adam Taylor,1999-02-25,Outside Hitter,66
+654,Mario West,1990-07-14,Middle Blocker,66
+655,Lindsey Baker,1988-02-16,Opposite Hitter,66
+656,Christopher Daniels,1985-07-09,Opposite Hitter,66
+657,Chelsea Cruz,1995-04-22,Libero,66
+658,Wendy Jefferson,2000-12-27,Setter,66
+659,Angela Johnson,1990-11-24,Setter,66
+660,Danielle Johnson,2001-06-28,Opposite Hitter,66
+661,John Campos,1987-02-24,Libero,67
+662,Lisa Sims,2001-11-18,Libero,67
+663,Randy Day,2001-07-08,Setter,67
+664,Stephen Wright,2005-06-24,Outside Hitter,67
+665,Alan Snyder,2005-04-04,Libero,67
+666,Zachary Smith,1992-03-12,Middle Blocker,67
+667,Alison Woods,2006-05-15,Opposite Hitter,67
+668,Richard Johnson,1994-01-12,Outside Hitter,67
+669,William Hernandez,1997-09-15,Libero,67
+670,Casey Webster,1994-04-19,Libero,67
+671,Tina Martinez,1986-04-11,Setter,68
+672,Stephen Marshall,1991-09-21,Setter,68
+673,Jennifer Mitchell,2004-10-07,Setter,68
+674,Caitlin Sosa,2000-02-23,Outside Hitter,68
+675,Darius Lee,1988-01-05,Libero,68
+676,Jennifer Edwards MD,2003-08-20,Opposite Hitter,68
+677,Ashley Johnson,1992-12-20,Libero,68
+678,Greg Pearson,1989-06-12,Opposite Hitter,68
+679,Linda Sanchez,1997-07-09,Libero,68
+680,Brittany Soto,1992-09-12,Setter,68
+681,Nancy Moore,1987-03-13,Setter,69
+682,Dr. Jesse Williams DVM,1995-05-27,Middle Blocker,69
+683,Maria Bullock,1989-09-18,Setter,69
+684,Michael Webb,1987-07-19,Libero,69
+685,Henry Diaz,1995-09-13,Libero,69
+686,Eric Carter,1984-12-04,Setter,69
+687,Paul Cuevas,2003-08-06,Libero,69
+688,Carolyn Murphy,1999-10-22,Outside Hitter,69
+689,Joseph Rice,1998-09-19,Outside Hitter,69
+690,Jacob Richards,1984-08-25,Libero,69
+691,Evan Benson,1992-01-15,Setter,70
+692,Susan Underwood,1983-11-12,Libero,70
+693,Kimberly Smith,1995-07-07,Middle Blocker,70
+694,Derrick Pena,1991-02-08,Libero,70
+695,Jeffrey Moore,1996-02-12,Outside Hitter,70
+696,Ronald Middleton,1993-10-14,Libero,70
+697,Natasha Kaiser,1993-10-25,Opposite Hitter,70
+698,Melissa Hardy,1991-09-04,Opposite Hitter,70
+699,David Farmer,1991-02-20,Libero,70
+700,Jessica Griffin,1996-09-05,Middle Blocker,70
+701,Robin Warren,1996-05-13,Opposite Hitter,71
+702,Jerry Miller,1999-10-30,Middle Blocker,71
+703,Melissa Hopkins,1996-04-11,Setter,71
+704,Michael Baker,1998-04-12,Opposite Hitter,71
+705,Jessica Lambert,1993-01-17,Libero,71
+706,Brian Buchanan,2005-08-07,Outside Hitter,71
+707,Bianca Moreno,2002-12-13,Setter,71
+708,Karen Johnson,1995-10-19,Outside Hitter,71
+709,Tiffany Floyd,1990-02-13,Outside Hitter,71
+710,Matthew Cross,1984-05-09,Libero,71
+711,Theresa Wood,1985-11-14,Setter,72
+712,Timothy Nelson,2004-08-29,Middle Blocker,72
+713,David Ritter,1990-12-24,Middle Blocker,72
+714,Monica Powell DVM,1995-06-08,Setter,72
+715,Scott Garcia,1994-06-04,Outside Hitter,72
+716,Barbara Gibbs,1986-02-02,Middle Blocker,72
+717,Patricia Jenkins,2002-04-09,Libero,72
+718,Samantha Ford,1996-05-07,Opposite Hitter,72
+719,Travis Erickson,1984-06-18,Setter,72
+720,Amanda Petersen MD,1999-08-24,Outside Hitter,72
+721,Robert Coleman,1999-08-28,Middle Blocker,73
+722,Christian Mcdonald,1990-10-26,Libero,73
+723,Christopher Jenkins,1986-03-25,Opposite Hitter,73
+724,Dr. Kyle Anderson,2005-04-16,Middle Blocker,73
+725,Karen Sanford,2002-01-06,Outside Hitter,73
+726,Yvonne Harvey,1998-02-05,Setter,73
+727,Spencer Mejia,1995-06-24,Middle Blocker,73
+728,Mr. Craig Cochran,1998-02-22,Outside Hitter,73
+729,Jessica Luna,1996-01-07,Libero,73
+730,Tiffany French,1986-10-01,Libero,73
+731,Keith Gilbert,1997-02-08,Libero,74
+732,Patricia Santos,2003-10-23,Libero,74
+733,Christopher Gomez,1986-04-17,Setter,74
+734,Robert Lewis,1990-09-18,Outside Hitter,74
+735,Tammy Cunningham,1984-03-22,Middle Blocker,74
+736,Gregory Castillo,1994-01-17,Middle Blocker,74
+737,Michael Coleman,1987-08-12,Middle Blocker,74
+738,Gregory Smith MD,1986-07-22,Middle Blocker,74
+739,Shannon Rogers,1984-01-30,Opposite Hitter,74
+740,Jenny Perez,1986-07-23,Setter,74
+741,Kevin Turner,1995-09-19,Opposite Hitter,75
+742,Marcus Saunders,1992-02-01,Outside Hitter,75
+743,Christian Martin,1992-12-24,Outside Hitter,75
+744,Cynthia Wang,2003-03-31,Libero,75
+745,Kimberly Mitchell,1992-04-21,Opposite Hitter,75
+746,Mr. David Smith,2002-09-13,Middle Blocker,75
+747,Philip Allen,1985-07-25,Middle Blocker,75
+748,Eric Brown,1991-07-26,Setter,75
+749,Susan Hayes,1991-02-26,Setter,75
+750,David Scott,2006-01-05,Opposite Hitter,75
+751,Amber Wright,1990-11-21,Setter,76
+752,Robert Rollins,1995-12-15,Outside Hitter,76
+753,Carla Howell,1984-02-19,Setter,76
+754,Karen Serrano,2000-09-01,Opposite Hitter,76
+755,Melanie Simpson,2001-07-27,Setter,76
+756,Dale Harvey,1994-11-08,Setter,76
+757,Jacob Wise,2000-01-22,Opposite Hitter,76
+758,Helen Bell,1994-09-11,Opposite Hitter,76
+759,Kevin Brown,2005-11-03,Middle Blocker,76
+760,Kevin Ellis,1986-10-05,Middle Blocker,76
+761,Sarah Carter,1996-09-17,Opposite Hitter,77
+762,Tara Smith,2001-09-02,Opposite Hitter,77
+763,Brendan Fleming,1993-02-18,Setter,77
+764,Mackenzie Branch,1984-09-05,Outside Hitter,77
+765,Courtney Graham,1990-12-31,Opposite Hitter,77
+766,Meghan Taylor,1984-07-25,Opposite Hitter,77
+767,Wendy Rivera,1985-03-31,Outside Hitter,77
+768,Luke Gonzales,1989-01-06,Libero,77
+769,Rodney Sampson,1996-11-22,Setter,77
+770,Angela Vasquez,1987-12-03,Middle Blocker,77
+771,Christopher Sweeney,1993-01-21,Libero,78
+772,Wendy Harris,1991-05-29,Outside Hitter,78
+773,Kristin Long,1993-10-10,Middle Blocker,78
+774,Amanda Shaw,2001-05-20,Opposite Hitter,78
+775,Gavin Kirk,2000-09-16,Setter,78
+776,Eric Gordon,1985-12-29,Opposite Hitter,78
+777,Justin Brown,1988-04-18,Middle Blocker,78
+778,Deborah Hernandez,1999-01-12,Middle Blocker,78
+779,Alexandra Rogers,1987-01-21,Opposite Hitter,78
+780,Natasha Rodriguez,1994-11-01,Outside Hitter,78
+781,Anna Campbell,2006-06-10,Middle Blocker,79
+782,Jacob Harris,1993-01-27,Libero,79
+783,John Jones,1997-12-31,Setter,79
+784,Emily Smith,1997-06-26,Middle Blocker,79
+785,Debbie Dalton,1992-11-04,Opposite Hitter,79
+786,Amanda Wilson,2004-07-18,Opposite Hitter,79
+787,Ronald Meyer,1983-12-16,Outside Hitter,79
+788,Stephanie Beasley,1992-04-22,Opposite Hitter,79
+789,Amanda Dudley,1994-12-19,Opposite Hitter,79
+790,Patrick Becker,2002-10-27,Outside Hitter,79
+791,Christopher Harris,2001-01-15,Middle Blocker,80
+792,Angela Brown,1989-11-08,Outside Hitter,80
+793,Ernest Martinez,2001-03-27,Libero,80
+794,Diane Armstrong,2001-07-11,Setter,80
+795,Jessica Martinez,1985-08-24,Libero,80
+796,Troy Young,1988-12-13,Opposite Hitter,80
+797,Sabrina Acosta,2000-03-22,Middle Blocker,80
+798,Eddie Ali,2002-08-06,Middle Blocker,80
+799,Alexander Clements,2001-12-13,Opposite Hitter,80
+800,Christine Hall,1995-10-27,Outside Hitter,80
+801,Laura Werner,1991-10-16,Outside Hitter,81
+802,James Walters,1996-09-10,Libero,81
+803,Mrs. Chelsea Pena MD,2005-01-08,Outside Hitter,81
+804,Kenneth Juarez,2005-04-22,Outside Hitter,81
+805,Jamie Harris,1984-01-19,Middle Blocker,81
+806,Michael Simpson,1990-06-27,Setter,81
+807,Jose Dunn DDS,1984-08-20,Libero,81
+808,Dalton Monroe,1997-06-16,Opposite Hitter,81
+809,William Munoz,1991-03-03,Outside Hitter,81
+810,Justin Wright,2005-07-14,Outside Hitter,81
+811,Michael Casey V,2001-05-02,Opposite Hitter,82
+812,Robert Roth,1999-11-15,Setter,82
+813,Destiny Kaufman,1991-02-19,Middle Blocker,82
+814,Tracey Horn,1995-04-06,Libero,82
+815,Kenneth Cross,1994-08-22,Outside Hitter,82
+816,Stephen Adams,1997-08-10,Outside Hitter,82
+817,Christopher Johnson,1995-12-18,Opposite Hitter,82
+818,Daniel Gomez,2003-06-24,Opposite Hitter,82
+819,Brady Russell,1986-02-27,Outside Hitter,82
+820,Amanda Walters,2005-06-21,Libero,82
+821,Alexa Figueroa,1995-09-13,Libero,83
+822,Cheryl Price,2004-07-26,Opposite Hitter,83
+823,Melinda Parrish,2001-10-21,Outside Hitter,83
+824,Felicia Hawkins,2000-07-31,Libero,83
+825,Caitlin Jones,1994-04-24,Outside Hitter,83
+826,Daniel Doyle,2002-06-14,Outside Hitter,83
+827,Lisa Gonzalez,1999-04-30,Middle Blocker,83
+828,Karla Garner,1992-10-16,Middle Blocker,83
+829,Sherry Braun,1990-12-24,Outside Hitter,83
+830,Francisco Brown,2001-06-19,Libero,83
+831,Robert Parker,1991-05-23,Setter,84
+832,James Lee,1987-08-19,Middle Blocker,84
+833,Kelly Moore,1986-07-12,Opposite Hitter,84
+834,Mr. Sean Knight,2005-09-12,Setter,84
+835,Maria Sullivan,1987-02-26,Setter,84
+836,Sheila Castillo,1987-09-28,Outside Hitter,84
+837,Vincent Arnold,2004-02-18,Setter,84
+838,James Jones,1997-09-21,Setter,84
+839,Karen Jordan,2003-03-15,Opposite Hitter,84
+840,Krista Sexton,1986-01-31,Opposite Hitter,84
+841,Dawn Johnson,1988-02-22,Outside Hitter,85
+842,Katherine Brown,1996-12-22,Outside Hitter,85
+843,Tony Navarro,2000-10-08,Opposite Hitter,85
+844,Ashley Martinez,2000-01-28,Setter,85
+845,Samuel Douglas,1994-01-30,Outside Hitter,85
+846,Daniel Thompson,2003-02-08,Outside Hitter,85
+847,Cindy Dominguez,1994-06-07,Setter,85
+848,Samantha Brown,1997-11-11,Opposite Hitter,85
+849,Antonio Sims,1995-09-17,Middle Blocker,85
+850,Lisa Jackson,2003-09-04,Opposite Hitter,85
+851,Douglas Ball,2001-07-13,Outside Hitter,86
+852,George Medina,1996-05-01,Outside Hitter,86
+853,Amanda Pugh,1983-07-05,Setter,86
+854,Mary Snyder,1998-11-17,Libero,86
+855,Teresa Pearson,1992-02-26,Middle Blocker,86
+856,Robert Calhoun,1984-09-03,Libero,86
+857,Eric Kemp,1996-04-13,Middle Blocker,86
+858,Donna Lucas,2000-03-21,Libero,86
+859,Kelly Wilkinson,1997-11-01,Middle Blocker,86
+860,James Johnson,1990-08-02,Setter,86
+861,Jennifer Jones,1986-05-02,Outside Hitter,87
+862,Ronald Morgan,2001-01-22,Libero,87
+863,Margaret Foster,1990-10-28,Middle Blocker,87
+864,Daniel Mitchell,1986-03-01,Outside Hitter,87
+865,Patricia Banks,1993-02-14,Middle Blocker,87
+866,William Smith,1984-06-23,Middle Blocker,87
+867,Victor Russo,2002-06-11,Middle Blocker,87
+868,Jackson Davis,2005-06-18,Middle Blocker,87
+869,Jason Smith,1993-11-10,Libero,87
+870,Christopher Jensen,2005-02-08,Outside Hitter,87
+871,Julie Gonzalez,1991-06-23,Middle Blocker,88
+872,Stephanie Morris,1994-01-02,Libero,88
+873,Tyler Moore,1984-09-26,Outside Hitter,88
+874,Robert Martin,1987-05-07,Outside Hitter,88
+875,Brent Benjamin DDS,1991-03-06,Libero,88
+876,Mary Wright,1997-10-11,Outside Hitter,88
+877,David Obrien,1998-10-22,Middle Blocker,88
+878,Kimberly Johnson,1992-08-20,Libero,88
+879,Tammy Nelson,1998-10-19,Opposite Hitter,88
+880,William Spence,1994-12-14,Setter,88
+881,Carlos Boyd,1992-03-18,Libero,89
+882,Charles Johnson,1989-07-13,Libero,89
+883,Valerie Thomas,1991-01-26,Setter,89
+884,Timothy Montgomery,1994-06-30,Middle Blocker,89
+885,Joseph Brandt,2001-03-11,Opposite Hitter,89
+886,Sean Gonzalez DVM,1987-08-20,Libero,89
+887,Marcus Gonzales,2003-07-24,Libero,89
+888,Colleen Gibson,2003-12-12,Middle Blocker,89
+889,Barbara Lindsey,2003-05-04,Middle Blocker,89
+890,Andrea Smith,1990-06-16,Opposite Hitter,89
+891,Cory Dean,1999-05-11,Setter,90
+892,Andre Williams,2003-08-26,Setter,90
+893,Carla Hall,1989-03-14,Opposite Hitter,90
+894,Christian Smith,1990-12-21,Outside Hitter,90
+895,Jeffrey Edwards,1997-12-13,Outside Hitter,90
+896,Caitlin Bell,1993-02-10,Opposite Hitter,90
+897,Amanda Benton,1992-02-13,Outside Hitter,90
+898,Timothy Smith,1986-03-30,Outside Hitter,90
+899,Robert Mcgrath,1995-06-09,Setter,90
+900,Yolanda Henderson,1992-07-30,Opposite Hitter,90
+901,Mary Strong,2003-10-05,Middle Blocker,91
+902,Helen Evans,1984-05-30,Outside Hitter,91
+903,Edward Moore,2005-03-27,Libero,91
+904,William Martin,1996-05-01,Opposite Hitter,91
+905,Aaron Flynn,2000-10-16,Middle Blocker,91
+906,Alexander Shields,2000-09-04,Setter,91
+907,Benjamin Rodriguez,1994-04-09,Libero,91
+908,Matthew Andrews,1988-09-21,Outside Hitter,91
+909,Johnathan Scott,1999-06-28,Libero,91
+910,Bobby Case,1988-01-09,Middle Blocker,91
+911,Andrew Good,2000-06-11,Opposite Hitter,92
+912,Diana Russell,1990-05-06,Setter,92
+913,Bryan Mullen,2000-06-23,Setter,92
+914,Sandra Crawford,1993-12-18,Middle Blocker,92
+915,Brandon Miller,2004-12-16,Outside Hitter,92
+916,Sara Miller,1984-10-10,Libero,92
+917,Crystal Owens,1997-07-03,Outside Hitter,92
+918,Ariel Garcia,1986-12-02,Middle Blocker,92
+919,Jodi Gilbert,2001-03-01,Opposite Hitter,92
+920,Benjamin Walters,1993-07-10,Outside Hitter,92
+921,Rebecca Smith,1987-04-15,Libero,93
+922,Melinda Fisher,1987-03-12,Opposite Hitter,93
+923,Fernando Hamilton,1989-06-26,Libero,93
+924,Melissa Anderson,1987-01-06,Outside Hitter,93
+925,Nicholas Garcia,1986-11-30,Middle Blocker,93
+926,Jill Anthony,1989-02-12,Libero,93
+927,Jennifer Green,1986-01-21,Setter,93
+928,Daniel Bradley,1989-04-22,Libero,93
+929,Benjamin Hall,1988-10-05,Outside Hitter,93
+930,Alexandra Perez,1983-07-04,Middle Blocker,93
+931,William Ross,1998-08-27,Setter,94
+932,Carrie Evans,1985-05-09,Middle Blocker,94
+933,Kelly Larson,2003-11-27,Middle Blocker,94
+934,Erica Cruz,1983-10-15,Outside Hitter,94
+935,Curtis Duke,1985-05-22,Outside Hitter,94
+936,Ronald Hughes,2003-07-01,Outside Hitter,94
+937,Dawn Smith,2001-03-21,Middle Blocker,94
+938,Tanya Thomas,2001-05-05,Middle Blocker,94
+939,Jessica Jones,1989-02-16,Middle Blocker,94
+940,Keith Morgan,1993-06-12,Middle Blocker,94
+941,Pamela Martinez,2005-12-02,Middle Blocker,95
+942,Elizabeth Jones,1993-06-16,Setter,95
+943,James Yang,1994-09-10,Libero,95
+944,Hunter Banks,1988-11-10,Libero,95
+945,Jonathan Simmons,2002-04-21,Setter,95
+946,Austin Bradley,1985-04-18,Opposite Hitter,95
+947,Gregory Green,2002-07-02,Middle Blocker,95
+948,Jacob Cruz,2005-08-25,Opposite Hitter,95
+949,Dawn Bright,2002-11-10,Outside Hitter,95
+950,Jennifer Day,1996-02-11,Setter,95
+951,Candice Charles,1984-03-15,Setter,96
+952,Allison Smith,1983-09-27,Libero,96
+953,Dawn Krause,1991-07-26,Opposite Hitter,96
+954,Tracey Romero,1990-03-20,Libero,96
+955,Dana Mann,2005-02-08,Libero,96
+956,Leslie Fitzgerald,1995-01-24,Opposite Hitter,96
+957,Autumn Francis,1987-12-26,Opposite Hitter,96
+958,Stephanie Campbell,1992-11-16,Outside Hitter,96
+959,Nicole Villarreal,1994-09-04,Middle Blocker,96
+960,Mike Munoz,1994-05-16,Middle Blocker,96
+961,Amanda Mendoza,1996-11-16,Outside Hitter,97
+962,Mr. Richard Burke,1990-09-13,Outside Hitter,97
+963,Raymond Gates,1998-06-02,Libero,97
+964,Zachary Cox,2003-02-04,Setter,97
+965,Michael Smith,2004-01-14,Libero,97
+966,Lisa Lopez,2003-10-17,Middle Blocker,97
+967,Aaron Suarez,1985-07-02,Middle Blocker,97
+968,Megan Kaiser,1989-07-04,Setter,97
+969,Victoria Black,1995-03-29,Setter,97
+970,Richard Miller MD,1991-08-23,Libero,97
+971,Nicole Foster,1997-03-25,Outside Hitter,98
+972,Jeffrey Becker,2006-02-24,Opposite Hitter,98
+973,Anthony Gonzalez,1994-11-25,Libero,98
+974,Rachel Johnson,2005-01-12,Setter,98
+975,Trevor Crawford,2001-04-24,Libero,98
+976,Emily Davis,1985-09-06,Opposite Hitter,98
+977,David Sanchez,1998-12-01,Outside Hitter,98
+978,Anna Duncan,1998-08-17,Outside Hitter,98
+979,Patricia Reyes,1990-07-01,Setter,98
+980,Maria Hodge,2003-04-04,Outside Hitter,98
+981,Joseph Glass,2000-06-09,Setter,99
+982,Rachel Garcia,2004-06-17,Libero,99
+983,Peter Costa,1988-05-27,Middle Blocker,99
+984,Sharon Brown,1987-12-28,Outside Hitter,99
+985,Sheryl Smith,1986-06-03,Outside Hitter,99
+986,Ellen Erickson,1988-10-06,Outside Hitter,99
+987,Jeffery Evans,1991-10-26,Setter,99
+988,Edward Long,1988-05-06,Setter,99
+989,Brandon Lopez,1996-06-12,Opposite Hitter,99
+990,Ruben Hernandez,1987-02-19,Libero,99
+991,Wanda Green,1993-06-04,Opposite Hitter,100
+992,Robert Miller,1989-07-16,Outside Hitter,100
+993,Robert Day,1988-04-25,Middle Blocker,100
+994,Bianca Jennings,1995-03-28,Middle Blocker,100
+995,Jeanne Dawson,1986-09-07,Opposite Hitter,100
+996,Rachel Blackburn,1995-10-19,Setter,100
+997,Amy Johnson,1996-11-01,Opposite Hitter,100
+998,Carolyn Rogers,2003-06-03,Outside Hitter,100
+999,Karen Reed,1998-01-10,Outside Hitter,100
+1000,John Richardson,1984-04-17,Opposite Hitter,100

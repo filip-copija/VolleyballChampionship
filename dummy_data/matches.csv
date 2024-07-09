@@ -1,0 +1,1202 @@
+match_id,match_date,match_location,home_team_id,away_team_id,match_result
+1,2000-01-01,East Kevinmouth,21,45,3:2
+2,2000-01-08,New Kyle,29,58,3:2
+3,2000-01-15,Lake Juanfort,48,89,3:2
+4,2000-01-22,Hallport,26,27,1:3
+5,2000-01-29,North Deborah,21,77,3:1
+6,2000-02-05,South Morgan,95,30,3:1
+7,2000-02-12,West Carly,16,92,3:2
+8,2000-02-19,East Denniston,31,4,3:1
+9,2000-02-26,West Shane,97,50,3:2
+10,2000-03-04,South Heather,63,42,3:1
+11,2000-03-11,Lake Michaela,19,90,3:1
+12,2000-03-18,South Jessica,70,67,3:0
+13,2000-03-25,East Oliviaborough,17,15,1:3
+14,2000-04-01,Monicatown,9,84,3:0
+15,2000-04-08,New Adriana,99,67,3:0
+16,2000-04-15,Barnettmouth,1,61,3:2
+17,2000-04-22,Herreraberg,87,97,2:3
+18,2000-04-29,Lake Justinmouth,12,64,2:3
+19,2000-05-06,Lake Derekstad,57,42,3:0
+20,2000-05-13,Sandraside,41,47,3:2
+21,2000-05-20,North Amy,78,65,3:2
+22,2000-05-27,South Reneehaven,96,16,0:3
+23,2000-06-03,Crosbybury,71,66,3:0
+24,2000-06-10,Mitchellland,52,20,3:2
+25,2000-06-17,West Nicole,29,28,3:1
+26,2000-06-24,Richardsborough,51,40,1:3
+27,2000-07-01,North Lindsey,75,98,3:0
+28,2000-07-08,Lopezberg,69,31,3:2
+29,2000-07-15,New Kathleen,86,32,3:0
+30,2000-07-22,Davidland,89,38,3:2
+31,2000-07-29,Smithville,84,40,1:3
+32,2000-08-05,Daniellestad,31,23,3:1
+33,2000-08-12,Port Lindsey,31,3,1:3
+34,2000-08-19,Port Codyview,4,21,2:3
+35,2000-08-26,Lake Rodney,23,8,3:0
+36,2000-09-02,Caldwellhaven,85,44,3:0
+37,2000-09-09,North Trevor,73,47,3:2
+38,2000-09-16,Wilsonville,42,72,0:3
+39,2000-09-23,West Carlabury,61,3,2:3
+40,2000-09-30,Joelfurt,58,47,0:3
+41,2000-10-07,Calderonmouth,46,85,1:3
+42,2000-10-14,East Amandabury,15,62,1:3
+43,2000-10-21,North Feliciachester,75,35,3:0
+44,2000-10-28,Lake Cynthia,13,63,0:3
+45,2000-11-04,Keyville,91,92,3:1
+46,2000-11-11,Ramirezhaven,49,20,3:2
+47,2000-11-18,Darrenmouth,93,98,2:3
+48,2000-11-25,West Daniel,29,78,3:2
+49,2000-12-02,Hardyport,64,61,3:2
+50,2000-12-09,Port Kimberly,75,91,3:1
+51,2000-12-16,Morenobury,64,2,3:0
+52,2000-12-23,Elizabethmouth,92,66,2:3
+53,2000-12-30,West Jasmineville,6,70,1:3
+54,2001-01-06,New David,8,95,2:3
+55,2001-01-13,Jacksonstad,52,66,3:2
+56,2001-01-20,Port Joelfort,31,100,2:3
+57,2001-01-27,East Alexander,7,21,3:2
+58,2001-02-03,East Virginia,82,47,1:3
+59,2001-02-10,East Charlottefurt,70,81,3:1
+60,2001-02-17,Charlesview,38,81,3:0
+61,2001-02-24,Bakerville,21,56,3:0
+62,2001-03-03,Jeffreyton,67,7,2:3
+63,2001-03-10,Port John,79,80,1:3
+64,2001-03-17,North Justin,23,70,3:2
+65,2001-03-24,New Kristy,47,66,3:1
+66,2001-03-31,Port Shaneside,75,66,2:3
+67,2001-04-07,Kochborough,26,61,0:3
+68,2001-04-14,Lake Sean,30,65,1:3
+69,2001-04-21,Lake Jenniferside,98,42,3:2
+70,2001-04-28,West Tiffany,21,20,3:2
+71,2001-05-05,Lake Heather,63,68,1:3
+72,2001-05-12,West Kelliburgh,45,57,3:0
+73,2001-05-19,Jodyton,4,86,2:3
+74,2001-05-26,New Teresaville,48,84,0:3
+75,2001-06-02,Bakershire,46,1,3:1
+76,2001-06-09,Weissside,65,41,3:2
+77,2001-06-16,North Tabitha,4,96,3:1
+78,2001-06-23,North Richardchester,26,11,3:2
+79,2001-06-30,Ryanfort,46,96,3:0
+80,2001-07-07,New Nicoleland,25,53,0:3
+81,2001-07-14,Kevinborough,36,74,3:0
+82,2001-07-21,Brendatown,97,52,2:3
+83,2001-07-28,Thomasview,45,46,2:3
+84,2001-08-04,Port Rachel,44,75,3:0
+85,2001-08-11,Katieland,4,52,3:0
+86,2001-08-18,Scottton,42,39,2:3
+87,2001-08-25,Davidport,26,42,0:3
+88,2001-09-01,East Leahview,49,57,0:3
+89,2001-09-08,Stephensonside,49,33,3:1
+90,2001-09-15,East Stephanie,71,42,1:3
+91,2001-09-22,Port Rachel,48,98,3:2
+92,2001-09-29,Janetton,8,5,3:1
+93,2001-10-06,Dianeland,78,75,2:3
+94,2001-10-13,Jasonberg,57,42,1:3
+95,2001-10-20,Michealview,37,62,3:0
+96,2001-10-27,Robertsstad,28,90,0:3
+97,2001-11-03,East Marissastad,88,20,3:1
+98,2001-11-10,Danielfort,61,71,3:0
+99,2001-11-17,Floresport,27,62,1:3
+100,2001-11-24,Nicoleburgh,19,53,3:2
+101,2001-12-01,East Lindsay,64,39,3:1
+102,2001-12-08,Port Sydneytown,29,83,3:2
+103,2001-12-15,New Joseph,26,52,3:2
+104,2001-12-22,East Vincent,7,9,3:1
+105,2001-12-29,Port Marcus,57,37,1:3
+106,2002-01-05,Elizabethshire,12,42,2:3
+107,2002-01-12,Port Markton,49,65,2:3
+108,2002-01-19,Oconnellville,57,34,2:3
+109,2002-01-26,North Robin,61,44,2:3
+110,2002-02-02,Daltonmouth,81,12,1:3
+111,2002-02-09,Mollybury,61,34,3:0
+112,2002-02-16,Pammouth,16,43,3:0
+113,2002-02-23,Robertview,56,28,3:0
+114,2002-03-02,Melissamouth,55,35,0:3
+115,2002-03-09,Kelleyfurt,3,62,3:2
+116,2002-03-16,New Jessica,44,52,3:1
+117,2002-03-23,New Sarah,17,26,3:2
+118,2002-03-30,South Lorifurt,79,89,3:1
+119,2002-04-06,Port Kevin,3,68,2:3
+120,2002-04-13,Jacobview,69,60,0:3
+121,2002-04-20,Esteschester,66,18,1:3
+122,2002-04-27,New Donna,18,63,1:3
+123,2002-05-04,New Emilystad,74,81,3:1
+124,2002-05-11,Coleport,50,52,3:2
+125,2002-05-18,Port Nicole,53,87,3:1
+126,2002-05-25,East Margaret,42,18,2:3
+127,2002-06-01,New Kathleenchester,28,14,3:2
+128,2002-06-08,East Melanieshire,90,89,3:1
+129,2002-06-15,Mossmouth,93,55,2:3
+130,2002-06-22,West Debbie,18,93,3:1
+131,2002-06-29,West Samuel,23,64,2:3
+132,2002-07-06,Bradleymouth,63,10,0:3
+133,2002-07-13,North Tinamouth,91,35,3:1
+134,2002-07-20,North Matthewville,55,62,0:3
+135,2002-07-27,Lorraineside,65,51,2:3
+136,2002-08-03,South Edwardburgh,31,42,1:3
+137,2002-08-10,Taylorshire,33,40,3:2
+138,2002-08-17,South Meagan,41,81,0:3
+139,2002-08-24,Richardsonborough,57,50,3:2
+140,2002-08-31,Lake Saramouth,32,53,3:1
+141,2002-09-07,Christopherburgh,92,55,2:3
+142,2002-09-14,Lake Garrett,74,30,3:1
+143,2002-09-21,Spearsberg,64,11,3:0
+144,2002-09-28,Fieldstown,30,44,2:3
+145,2002-10-05,Fritzview,63,2,2:3
+146,2002-10-12,South Gregory,39,2,3:1
+147,2002-10-19,Stewartton,7,20,0:3
+148,2002-10-26,Vancefort,53,62,3:2
+149,2002-11-02,Harrisonton,40,70,3:1
+150,2002-11-09,Jaimemouth,92,32,3:2
+151,2002-11-16,Jenniferhaven,73,47,0:3
+152,2002-11-23,East Spencer,5,91,3:2
+153,2002-11-30,East Marcusborough,20,28,1:3
+154,2002-12-07,Jasonshire,60,8,3:2
+155,2002-12-14,Denniston,16,71,0:3
+156,2002-12-21,Lake Michaelburgh,75,67,1:3
+157,2002-12-28,Gayshire,90,21,2:3
+158,2003-01-04,West Javier,68,17,1:3
+159,2003-01-11,Danieltown,22,20,0:3
+160,2003-01-18,South Melissachester,30,45,3:2
+161,2003-01-25,Dannytown,42,49,3:2
+162,2003-02-01,East Robertton,35,24,1:3
+163,2003-02-08,Glenhaven,5,68,0:3
+164,2003-02-15,Huntside,96,19,3:2
+165,2003-02-22,Lake Bryan,50,14,0:3
+166,2003-03-01,Haleyland,8,58,3:2
+167,2003-03-08,South Rogershire,95,13,3:1
+168,2003-03-15,North Johnstad,55,44,3:0
+169,2003-03-22,Nelsonfort,33,73,2:3
+170,2003-03-29,Barrerastad,80,66,1:3
+171,2003-04-05,Gabrielport,23,1,0:3
+172,2003-04-12,North Josephborough,57,25,3:2
+173,2003-04-19,North Richard,46,44,0:3
+174,2003-04-26,Lake Robert,79,53,3:0
+175,2003-05-03,West Jasonburgh,29,66,1:3
+176,2003-05-10,South Jacob,88,23,3:2
+177,2003-05-17,Masonview,47,84,2:3
+178,2003-05-24,East Phillipmouth,47,21,0:3
+179,2003-05-31,New Doristown,7,10,1:3
+180,2003-06-07,East Brycehaven,89,83,3:2
+181,2003-06-14,Henrychester,35,83,3:2
+182,2003-06-21,New Amanda,38,6,3:1
+183,2003-06-28,Warnermouth,9,99,2:3
+184,2003-07-05,Lisamouth,35,39,2:3
+185,2003-07-12,New Ryanfort,49,56,3:0
+186,2003-07-19,North Cynthia,37,76,1:3
+187,2003-07-26,Lake Lindsayshire,56,18,3:0
+188,2003-08-02,North Natashahaven,97,63,3:2
+189,2003-08-09,Leonardborough,31,25,1:3
+190,2003-08-16,Jenniferland,18,79,3:0
+191,2003-08-23,Rachelton,37,82,3:2
+192,2003-08-30,Timothyfurt,7,32,3:2
+193,2003-09-06,Rodriguezmouth,16,22,3:0
+194,2003-09-13,East Jefferyfurt,91,68,2:3
+195,2003-09-20,Port Christopher,95,74,1:3
+196,2003-09-27,Reyesfort,2,97,3:2
+197,2003-10-04,Hensonborough,10,83,3:0
+198,2003-10-11,South Manuelberg,96,69,2:3
+199,2003-10-18,South Adam,27,51,3:2
+200,2003-10-25,Baileyberg,85,59,3:0
+201,2003-11-01,Tammybury,3,76,0:3
+202,2003-11-08,Port Christina,3,38,3:0
+203,2003-11-15,Cervantesport,61,37,3:2
+204,2003-11-22,Kingland,95,91,3:0
+205,2003-11-29,East Reneefurt,17,10,3:2
+206,2003-12-06,Christopherfurt,97,73,3:1
+207,2003-12-13,Josephshire,51,95,3:0
+208,2003-12-20,East Paulburgh,61,51,3:1
+209,2003-12-27,New Susantown,3,32,1:3
+210,2004-01-03,North Lisa,39,62,1:3
+211,2004-01-10,Leslieside,61,63,3:2
+212,2004-01-17,Tyroneborough,23,35,3:2
+213,2004-01-24,South Richardside,44,71,1:3
+214,2004-01-31,Port Christopherfort,78,29,3:0
+215,2004-02-07,South Maryhaven,31,44,3:0
+216,2004-02-14,Port Kristi,99,96,3:2
+217,2004-02-21,Robertborough,21,32,1:3
+218,2004-02-28,Sheltonchester,43,51,3:0
+219,2004-03-06,West Virginiastad,88,22,0:3
+220,2004-03-13,Floreston,84,2,3:1
+221,2004-03-20,Lake Alejandrachester,58,84,0:3
+222,2004-03-27,Lake David,82,87,1:3
+223,2004-04-03,East Jill,31,24,2:3
+224,2004-04-10,Kennethmouth,86,55,3:1
+225,2004-04-17,West Rachel,19,25,1:3
+226,2004-04-24,Deborahhaven,19,65,3:0
+227,2004-05-01,Chadstad,48,8,1:3
+228,2004-05-08,North Tiffanychester,1,80,0:3
+229,2004-05-15,Jamiehaven,72,46,3:2
+230,2004-05-22,North Terry,62,28,1:3
+231,2004-05-29,Port Markmouth,7,49,3:1
+232,2004-06-05,Autumnstad,54,67,1:3
+233,2004-06-12,Stoutside,9,27,3:0
+234,2004-06-19,Bradleyburgh,80,65,0:3
+235,2004-06-26,Meganburgh,12,66,3:0
+236,2004-07-03,New Gary,44,89,2:3
+237,2004-07-10,Patrickchester,37,16,0:3
+238,2004-07-17,Port Tammymouth,78,73,0:3
+239,2004-07-24,West Heather,56,16,1:3
+240,2004-07-31,Whitebury,26,35,1:3
+241,2004-08-07,Robinsonberg,18,39,3:2
+242,2004-08-14,New Kellyburgh,78,40,3:0
+243,2004-08-21,Spencerhaven,1,54,3:0
+244,2004-08-28,Humphreybury,43,61,2:3
+245,2004-09-04,New Brenda,20,43,0:3
+246,2004-09-11,Youngborough,88,4,3:1
+247,2004-09-18,Noahborough,13,60,3:0
+248,2004-09-25,Christinabury,6,55,0:3
+249,2004-10-02,Rodriguezburgh,53,95,0:3
+250,2004-10-09,Matthewstad,52,96,3:2
+251,2004-10-16,West Bethland,65,25,1:3
+252,2004-10-23,Jodiport,97,53,1:3
+253,2004-10-30,Espinozatown,56,87,3:1
+254,2004-11-06,West Andrewview,56,52,3:1
+255,2004-11-13,Bakerborough,15,54,3:1
+256,2004-11-20,West Geraldtown,7,14,3:1
+257,2004-11-27,Lunaville,76,24,0:3
+258,2004-12-04,Dawsonville,15,98,3:1
+259,2004-12-11,Durhambury,89,67,1:3
+260,2004-12-18,West Jasmine,48,95,1:3
+261,2004-12-25,East Sarah,99,63,2:3
+262,2005-01-01,West Shannon,1,32,3:2
+263,2005-01-08,Goodmantown,80,24,0:3
+264,2005-01-15,Charlesstad,8,65,3:0
+265,2005-01-22,South Ryan,24,80,0:3
+266,2005-01-29,Lake Christianstad,30,81,3:1
+267,2005-02-05,Ronniemouth,99,79,3:0
+268,2005-02-12,Browninghaven,73,56,0:3
+269,2005-02-19,Lynchville,43,23,2:3
+270,2005-02-26,Kristenport,74,61,2:3
+271,2005-03-05,Benjaminshire,14,87,1:3
+272,2005-03-12,North Christopher,57,81,3:2
+273,2005-03-19,West Sergio,91,9,3:0
+274,2005-03-26,Lake Timothy,89,40,2:3
+275,2005-04-02,Edwardston,24,66,3:1
+276,2005-04-09,Danielleport,58,60,3:0
+277,2005-04-16,Goodmantown,8,11,3:0
+278,2005-04-23,Stephentown,33,90,0:3
+279,2005-04-30,Lake Lauraville,53,26,0:3
+280,2005-05-07,Caseyville,11,27,1:3
+281,2005-05-14,Fryestad,51,77,3:0
+282,2005-05-21,Lake Rachel,28,57,3:1
+283,2005-05-28,West Brandon,8,48,1:3
+284,2005-06-04,Victoriahaven,36,14,2:3
+285,2005-06-11,Ramoshaven,7,82,1:3
+286,2005-06-18,East Krystalfurt,96,16,2:3
+287,2005-06-25,Markton,40,8,3:2
+288,2005-07-02,Haleystad,46,79,0:3
+289,2005-07-09,Alexandershire,56,83,2:3
+290,2005-07-16,Millermouth,51,81,1:3
+291,2005-07-23,New Rogerhaven,52,4,3:1
+292,2005-07-30,Taylorside,61,2,2:3
+293,2005-08-06,North Kimberlyview,85,29,0:3
+294,2005-08-13,South Brandon,33,36,1:3
+295,2005-08-20,Taraland,48,22,2:3
+296,2005-08-27,Travisstad,100,41,0:3
+297,2005-09-03,East Johnland,87,91,3:0
+298,2005-09-10,South Thomasfort,1,96,1:3
+299,2005-09-17,West James,75,98,3:1
+300,2005-09-24,Mackenziemouth,31,1,3:0
+301,2005-10-01,Nelsonmouth,33,97,3:1
+302,2005-10-08,Welchmouth,50,29,1:3
+303,2005-10-15,Jamesmouth,70,97,3:0
+304,2005-10-22,Johnnyhaven,10,43,3:1
+305,2005-10-29,Ellisstad,89,33,3:2
+306,2005-11-05,Wangborough,76,92,3:2
+307,2005-11-12,Pughton,12,86,3:1
+308,2005-11-19,North William,16,84,3:1
+309,2005-11-26,Ochoaville,59,23,3:1
+310,2005-12-03,Lake Mariabury,37,81,3:1
+311,2005-12-10,New James,8,40,3:1
+312,2005-12-17,Ellenhaven,94,62,2:3
+313,2005-12-24,New David,81,41,1:3
+314,2005-12-31,Lake Courtney,42,9,3:1
+315,2006-01-07,Lake Brandonbury,16,35,3:0
+316,2006-01-14,South Rosechester,12,68,3:0
+317,2006-01-21,Lake Mollyport,29,9,3:0
+318,2006-01-28,Nguyenchester,8,37,3:1
+319,2006-02-04,East Michael,63,10,3:0
+320,2006-02-11,North Lindaburgh,40,75,0:3
+321,2006-02-18,South Jasmine,28,80,3:2
+322,2006-02-25,Lake Alyssafurt,53,25,3:1
+323,2006-03-04,Aprilstad,11,56,1:3
+324,2006-03-11,Ewingside,82,78,3:1
+325,2006-03-18,West Jamestown,79,63,3:0
+326,2006-03-25,Lake Jeremyton,74,64,2:3
+327,2006-04-01,Lake Jorge,59,41,3:0
+328,2006-04-08,Elizabethberg,50,23,2:3
+329,2006-04-15,South Luisbury,67,1,0:3
+330,2006-04-22,Stevenstown,62,50,3:0
+331,2006-04-29,Heatherside,70,45,3:1
+332,2006-05-06,Jessicastad,6,11,3:1
+333,2006-05-13,Glendahaven,50,32,2:3
+334,2006-05-20,Elliottstad,10,40,3:1
+335,2006-05-27,Olsonview,51,88,0:3
+336,2006-06-03,South Renee,77,46,2:3
+337,2006-06-10,Port Judyport,49,15,3:1
+338,2006-06-17,South Sheilaville,7,52,1:3
+339,2006-06-24,Clarkhaven,78,62,3:1
+340,2006-07-01,Lake Kellyton,38,26,3:2
+341,2006-07-08,Lake Peter,25,63,1:3
+342,2006-07-15,Tannermouth,4,41,0:3
+343,2006-07-22,Port Barbara,11,47,3:2
+344,2006-07-29,Suttontown,50,60,3:1
+345,2006-08-05,East Nathanfort,58,74,3:0
+346,2006-08-12,Howellfurt,75,47,3:1
+347,2006-08-19,Stevenborough,96,74,1:3
+348,2006-08-26,Paulville,34,42,1:3
+349,2006-09-02,Lindseystad,37,67,0:3
+350,2006-09-09,East Feliciatown,24,21,0:3
+351,2006-09-16,Nelsonborough,80,56,3:2
+352,2006-09-23,South Michaelbury,35,49,3:0
+353,2006-09-30,Carlsonberg,12,58,3:1
+354,2006-10-07,Clarkton,99,3,3:0
+355,2006-10-14,North Austinberg,8,25,0:3
+356,2006-10-21,North Alexander,1,89,2:3
+357,2006-10-28,Kristinamouth,97,23,3:0
+358,2006-11-04,West Monicabury,33,30,1:3
+359,2006-11-11,East Amandaport,77,67,1:3
+360,2006-11-18,West Barbara,6,81,3:2
+361,2006-11-25,East Johnfurt,65,91,2:3
+362,2006-12-02,Madisonmouth,17,21,3:2
+363,2006-12-09,Port Michelle,34,49,0:3
+364,2006-12-16,Josephside,89,66,3:0
+365,2006-12-23,South Ashleeburgh,56,15,3:2
+366,2006-12-30,West Teresa,26,51,3:1
+367,2007-01-06,Ariasport,63,17,1:3
+368,2007-01-13,Port Anthony,12,50,2:3
+369,2007-01-20,Joshuatown,54,55,3:0
+370,2007-01-27,Lake Sharonland,20,37,0:3
+371,2007-02-03,Johnsonland,40,91,3:1
+372,2007-02-10,Port Amyburgh,91,3,3:1
+373,2007-02-17,Lake Matthewborough,15,26,3:2
+374,2007-02-24,Garyfort,43,87,1:3
+375,2007-03-03,Lake Richardmouth,49,52,3:2
+376,2007-03-10,Alisonside,31,54,0:3
+377,2007-03-17,Morrisland,25,41,3:2
+378,2007-03-24,South Wesleystad,26,56,0:3
+379,2007-03-31,Lake Heather,96,31,2:3
+380,2007-04-07,Lynnton,92,72,2:3
+381,2007-04-14,Donnachester,98,85,3:0
+382,2007-04-21,Kimberlyfort,67,4,3:0
+383,2007-04-28,New Angela,56,42,3:0
+384,2007-05-05,Harrisborough,53,45,0:3
+385,2007-05-12,Lake Linda,93,64,3:2
+386,2007-05-19,New Ashleyburgh,78,32,1:3
+387,2007-05-26,North Adam,29,47,0:3
+388,2007-06-02,Thompsonfurt,77,26,2:3
+389,2007-06-09,Tinaport,7,44,3:2
+390,2007-06-16,West Timothyshire,29,57,3:1
+391,2007-06-23,Austinstad,35,30,1:3
+392,2007-06-30,West Katherine,37,59,3:2
+393,2007-07-07,Allenside,18,7,3:0
+394,2007-07-14,East Tammychester,76,4,3:1
+395,2007-07-21,Millermouth,31,96,0:3
+396,2007-07-28,Davidhaven,70,42,3:2
+397,2007-08-04,Benjaminbury,3,57,2:3
+398,2007-08-11,East Jason,39,18,2:3
+399,2007-08-18,South Brenda,77,15,2:3
+400,2007-08-25,Port Jamestown,30,4,2:3
+401,2007-09-01,New Allisonhaven,2,76,1:3
+402,2007-09-08,East Brookeburgh,71,82,3:0
+403,2007-09-15,Wagnerport,30,94,3:2
+404,2007-09-22,North Angelaside,74,92,0:3
+405,2007-09-29,Jonesbury,73,10,0:3
+406,2007-10-06,Lake Meghanborough,5,30,0:3
+407,2007-10-13,North Williamfort,95,10,2:3
+408,2007-10-20,Garciashire,99,68,2:3
+409,2007-10-27,Mooreport,24,7,0:3
+410,2007-11-03,Brownview,60,13,3:1
+411,2007-11-10,East Melvinborough,22,57,2:3
+412,2007-11-17,Melissaberg,15,42,0:3
+413,2007-11-24,Susanburgh,81,74,0:3
+414,2007-12-01,Joditon,38,83,3:2
+415,2007-12-08,South Barbara,100,64,3:2
+416,2007-12-15,Ashleeville,31,47,0:3
+417,2007-12-22,Travisburgh,95,96,3:0
+418,2007-12-29,South Valerie,3,30,3:2
+419,2008-01-05,Sydneytown,91,67,2:3
+420,2008-01-12,Patrickborough,42,63,3:1
+421,2008-01-19,Leemouth,21,96,3:0
+422,2008-01-26,Leslieberg,15,72,2:3
+423,2008-02-02,Port Derek,82,15,3:0
+424,2008-02-09,Beckyshire,31,53,3:1
+425,2008-02-16,New Michael,53,43,3:0
+426,2008-02-23,South Kennethborough,28,90,3:1
+427,2008-03-01,Port Amy,82,28,1:3
+428,2008-03-08,East Ryanhaven,57,40,3:0
+429,2008-03-15,New Nicholas,29,61,3:1
+430,2008-03-22,Hendersonburgh,2,98,1:3
+431,2008-03-29,Lake Rachel,59,79,3:0
+432,2008-04-05,West Stephenborough,17,82,0:3
+433,2008-04-12,Port Elizabeth,61,73,1:3
+434,2008-04-19,Lake Keithview,61,20,3:1
+435,2008-04-26,Gonzalezhaven,67,30,2:3
+436,2008-05-03,East Jared,19,36,2:3
+437,2008-05-10,South Kimberly,73,14,3:1
+438,2008-05-17,West Mistybury,91,59,1:3
+439,2008-05-24,Englishshire,36,100,3:2
+440,2008-05-31,Jasonview,45,56,3:1
+441,2008-06-07,Thomasfurt,3,51,0:3
+442,2008-06-14,Summershaven,84,53,2:3
+443,2008-06-21,West Amy,14,49,0:3
+444,2008-06-28,Wernerchester,12,48,1:3
+445,2008-07-05,West Tammy,79,80,3:1
+446,2008-07-12,Jasonside,88,95,3:2
+447,2008-07-19,Robertmouth,29,70,3:0
+448,2008-07-26,East Barbara,76,83,3:0
+449,2008-08-02,Tuckerfort,88,97,0:3
+450,2008-08-09,Stewartstad,96,41,3:1
+451,2008-08-16,Lake Christinabury,11,83,1:3
+452,2008-08-23,Port Dustinstad,40,57,3:2
+453,2008-08-30,Alexborough,6,30,3:2
+454,2008-09-06,Davidmouth,100,59,2:3
+455,2008-09-13,West Rodney,67,12,3:1
+456,2008-09-20,Justinhaven,89,90,0:3
+457,2008-09-27,New Paulchester,82,66,2:3
+458,2008-10-04,West Lesliefort,66,54,1:3
+459,2008-10-11,Moralesfort,54,31,3:1
+460,2008-10-18,Tylertown,44,36,2:3
+461,2008-10-25,North Brentland,78,53,3:1
+462,2008-11-01,Hernandezland,2,57,3:1
+463,2008-11-08,New Jeffrey,79,16,0:3
+464,2008-11-15,Peterhaven,58,52,3:0
+465,2008-11-22,Potterburgh,53,13,0:3
+466,2008-11-29,Lake Patricia,53,64,2:3
+467,2008-12-06,Simonfurt,87,53,3:2
+468,2008-12-13,Mitchelltown,98,60,1:3
+469,2008-12-20,East Marthaside,93,90,2:3
+470,2008-12-27,Darleneberg,93,95,2:3
+471,2009-01-03,West Justinfort,100,30,3:1
+472,2009-01-10,Andrewbury,60,26,3:0
+473,2009-01-17,North Randyton,47,31,2:3
+474,2009-01-24,Williamsstad,4,13,3:1
+475,2009-01-31,Lake Heather,7,33,3:0
+476,2009-02-07,South Micheleberg,2,6,3:0
+477,2009-02-14,Seanbury,44,95,2:3
+478,2009-02-21,West Michelleland,64,17,3:1
+479,2009-02-28,North Nathan,31,6,1:3
+480,2009-03-07,Lake Anthonychester,6,100,3:2
+481,2009-03-14,Amandaborough,32,34,3:2
+482,2009-03-21,Connorport,50,73,3:0
+483,2009-03-28,East Ericport,26,36,0:3
+484,2009-04-04,Lake Bryan,13,76,3:1
+485,2009-04-11,Port Justinton,80,90,3:2
+486,2009-04-18,Jillianton,84,12,3:0
+487,2009-04-25,North Jonathonmouth,27,60,3:0
+488,2009-05-02,South Beth,48,44,1:3
+489,2009-05-09,Dixonview,47,60,3:2
+490,2009-05-16,South Jessica,81,96,3:1
+491,2009-05-23,Thomasstad,92,20,0:3
+492,2009-05-30,Sandersborough,64,83,3:0
+493,2009-06-06,North Jennifer,95,64,3:0
+494,2009-06-13,Woodardmouth,1,58,3:0
+495,2009-06-20,Moorefort,63,21,3:2
+496,2009-06-27,Gwendolynmouth,67,78,3:1
+497,2009-07-04,Port Shannonmouth,52,14,0:3
+498,2009-07-11,Williamsville,40,89,1:3
+499,2009-07-18,Tracymouth,66,13,2:3
+500,2009-07-25,Elizabethmouth,29,67,2:3
+501,2009-08-01,North Melissachester,99,83,3:0
+502,2009-08-08,New Theresa,86,39,1:3
+503,2009-08-15,Fosterside,34,68,1:3
+504,2009-08-22,Port John,12,82,3:1
+505,2009-08-29,Port Kimberly,25,36,3:0
+506,2009-09-05,South Josephfurt,8,88,3:2
+507,2009-09-12,New Lisatown,21,61,3:2
+508,2009-09-19,West Kyle,90,18,1:3
+509,2009-09-26,North Spencer,18,85,3:0
+510,2009-10-03,Davidville,1,6,3:1
+511,2009-10-10,North Richard,73,42,0:3
+512,2009-10-17,South Darrell,27,19,3:2
+513,2009-10-24,Bradleyburgh,95,73,0:3
+514,2009-10-31,Jeremymouth,55,88,2:3
+515,2009-11-07,Stephenborough,28,10,0:3
+516,2009-11-14,West Alison,57,19,2:3
+517,2009-11-21,Port Beth,93,56,3:2
+518,2009-11-28,North Timothy,22,57,0:3
+519,2009-12-05,Port Joshua,22,74,2:3
+520,2009-12-12,Ferrellberg,99,23,1:3
+521,2009-12-19,Gonzalesside,45,75,0:3
+522,2009-12-26,Stevenbury,39,32,2:3
+523,2010-01-02,Lake Maureenborough,9,11,3:2
+524,2010-01-09,West Stacyport,100,60,3:2
+525,2010-01-16,East Josephland,7,43,0:3
+526,2010-01-23,Hartmanchester,41,96,3:2
+527,2010-01-30,New Kelly,96,12,3:0
+528,2010-02-06,Coxchester,92,29,1:3
+529,2010-02-13,Heberttown,21,97,0:3
+530,2010-02-20,Lake Melissa,45,28,3:1
+531,2010-02-27,South Michaelfurt,76,59,0:3
+532,2010-03-06,West Roberthaven,6,76,2:3
+533,2010-03-13,Lopezview,74,57,3:2
+534,2010-03-20,Lake Paul,65,89,0:3
+535,2010-03-27,Chavezmouth,5,66,3:0
+536,2010-04-03,Lake Jo,13,33,1:3
+537,2010-04-10,New Marktown,60,42,3:0
+538,2010-04-17,Lake Karenport,97,68,1:3
+539,2010-04-24,Triciaville,62,86,3:0
+540,2010-05-01,North Staceybury,81,43,3:1
+541,2010-05-08,Kochport,71,57,2:3
+542,2010-05-15,South Davidfort,29,71,3:1
+543,2010-05-22,West Brian,42,47,3:2
+544,2010-05-29,Coreyton,12,73,1:3
+545,2010-06-05,Spencerport,55,20,1:3
+546,2010-06-12,Heathermouth,89,59,3:1
+547,2010-06-19,Grahamview,5,33,1:3
+548,2010-06-26,East Timothybury,22,64,2:3
+549,2010-07-03,North Josephfurt,1,45,3:2
+550,2010-07-10,Gallegosborough,61,10,3:0
+551,2010-07-17,North Jerryfurt,76,65,3:2
+552,2010-07-24,Jeffreyport,76,58,3:1
+553,2010-07-31,Phillipston,30,86,3:2
+554,2010-08-07,Anneside,75,55,2:3
+555,2010-08-14,Cruzport,16,68,0:3
+556,2010-08-21,Scottton,3,20,3:2
+557,2010-08-28,Davidtown,80,14,3:0
+558,2010-09-04,Lamberg,15,51,2:3
+559,2010-09-11,East Davidburgh,76,65,3:1
+560,2010-09-18,Tracytown,77,44,0:3
+561,2010-09-25,South Robertmouth,70,2,3:2
+562,2010-10-02,North Michael,96,41,3:0
+563,2010-10-09,Paulland,55,81,0:3
+564,2010-10-16,East Georgechester,7,80,1:3
+565,2010-10-23,New Jenniferbury,86,4,3:0
+566,2010-10-30,Maciasmouth,8,98,1:3
+567,2010-11-06,Gailberg,72,81,3:1
+568,2010-11-13,Russellfurt,73,57,3:1
+569,2010-11-20,Davisfurt,53,40,3:2
+570,2010-11-27,Johnmouth,23,24,3:1
+571,2010-12-04,East Williambury,33,66,3:2
+572,2010-12-11,Lake Wesleyside,26,25,3:1
+573,2010-12-18,Andrewside,8,86,3:1
+574,2010-12-25,Ellisonberg,32,38,3:1
+575,2011-01-01,New Michelle,42,34,2:3
+576,2011-01-08,Andreafort,33,64,3:2
+577,2011-01-15,South Michael,17,37,3:1
+578,2011-01-22,East Tammy,84,94,3:2
+579,2011-01-29,Higginsburgh,38,73,3:0
+580,2011-02-05,Lake William,22,46,2:3
+581,2011-02-12,South William,79,87,2:3
+582,2011-02-19,Port Rachel,51,25,3:0
+583,2011-02-26,West Brandontown,85,55,2:3
+584,2011-03-05,Leebury,56,49,2:3
+585,2011-03-12,Victoriashire,83,9,0:3
+586,2011-03-19,Hillville,62,51,3:0
+587,2011-03-26,Lake Katelyn,1,18,3:0
+588,2011-04-02,Jennifertown,98,46,1:3
+589,2011-04-09,Brownfort,66,92,0:3
+590,2011-04-16,Nixonstad,50,67,3:1
+591,2011-04-23,East Annaberg,61,46,0:3
+592,2011-04-30,Jillchester,90,13,1:3
+593,2011-05-07,Piercefurt,15,20,0:3
+594,2011-05-14,South Jillchester,42,9,3:2
+595,2011-05-21,North James,83,66,3:2
+596,2011-05-28,Alexisport,60,45,3:0
+597,2011-06-04,South Sabrina,33,95,2:3
+598,2011-06-11,Mikemouth,81,11,3:0
+599,2011-06-18,Amberchester,44,46,0:3
+600,2011-06-25,South Nicholas,26,92,2:3
+601,2011-07-02,Lake Andrea,49,5,3:2
+602,2011-07-09,North Christopher,64,9,3:1
+603,2011-07-16,New Joseph,17,13,2:3
+604,2011-07-23,North Reneeton,46,14,3:1
+605,2011-07-30,Ortizstad,70,34,3:0
+606,2011-08-06,Alexanderbury,77,22,2:3
+607,2011-08-13,Bradleyburgh,100,26,1:3
+608,2011-08-20,Port James,16,23,0:3
+609,2011-08-27,Gonzalezville,82,7,1:3
+610,2011-09-03,Lake Christian,5,52,2:3
+611,2011-09-10,East Davidburgh,33,72,0:3
+612,2011-09-17,Reynoldston,95,16,0:3
+613,2011-09-24,New Marissa,94,20,3:0
+614,2011-10-01,North Christopherport,97,22,3:2
+615,2011-10-08,North Debrastad,27,41,3:2
+616,2011-10-15,West Darlene,14,93,3:1
+617,2011-10-22,West Theresaburgh,37,29,2:3
+618,2011-10-29,Adammouth,13,82,0:3
+619,2011-11-05,Cynthiaview,100,25,3:0
+620,2011-11-12,Lake Lauren,96,93,2:3
+621,2011-11-19,Evansfurt,33,31,3:0
+622,2011-11-26,Hallburgh,82,34,0:3
+623,2011-12-03,Lake Sarah,44,77,3:2
+624,2011-12-10,Sextonport,36,100,3:1
+625,2011-12-17,South Marilyn,78,93,3:1
+626,2011-12-24,Loganmouth,87,21,3:1
+627,2011-12-31,Lake Catherinetown,90,58,0:3
+628,2012-01-07,North Charles,11,23,2:3
+629,2012-01-14,North Julia,73,38,3:2
+630,2012-01-21,Alexandratown,51,9,0:3
+631,2012-01-28,East Mary,87,62,1:3
+632,2012-02-04,South Joseph,88,83,0:3
+633,2012-02-11,Sandrashire,14,36,0:3
+634,2012-02-18,Gonzalezstad,75,31,3:1
+635,2012-02-25,Christinaton,31,15,3:2
+636,2012-03-03,Connerburgh,13,30,0:3
+637,2012-03-10,West Steven,58,93,3:1
+638,2012-03-17,West Jesus,97,38,1:3
+639,2012-03-24,New Danielstad,95,38,3:2
+640,2012-03-31,Ericbury,23,96,3:2
+641,2012-04-07,Robinborough,14,13,3:2
+642,2012-04-14,Roberthaven,19,46,3:1
+643,2012-04-21,Port James,22,47,2:3
+644,2012-04-28,Laurabury,24,78,0:3
+645,2012-05-05,Robertton,58,3,1:3
+646,2012-05-12,New Nicholas,42,65,1:3
+647,2012-05-19,Hayeston,97,70,2:3
+648,2012-05-26,Tylerville,48,84,1:3
+649,2012-06-02,New Ginaton,51,56,3:0
+650,2012-06-09,Port Amy,69,31,0:3
+651,2012-06-16,New Adamside,58,83,1:3
+652,2012-06-23,Bradleyfurt,23,80,2:3
+653,2012-06-30,New Christopherside,55,3,0:3
+654,2012-07-07,Lake Arielmouth,31,12,0:3
+655,2012-07-14,East Emily,3,15,3:0
+656,2012-07-21,South Hollyhaven,55,46,3:0
+657,2012-07-28,Hollowaystad,69,52,1:3
+658,2012-08-04,Jenniferview,1,28,2:3
+659,2012-08-11,Bennettchester,91,24,3:1
+660,2012-08-18,Evansstad,22,62,1:3
+661,2012-08-25,West Kelly,57,2,3:0
+662,2012-09-01,Murrayberg,60,24,3:2
+663,2012-09-08,Lucasstad,29,100,3:0
+664,2012-09-15,West Rebeccamouth,2,40,3:2
+665,2012-09-22,Robinsonport,32,64,3:1
+666,2012-09-29,Curtishaven,95,29,0:3
+667,2012-10-06,Westland,21,31,3:0
+668,2012-10-13,New Valeriemouth,97,4,2:3
+669,2012-10-20,Lake Katie,49,65,2:3
+670,2012-10-27,Adamview,2,62,3:2
+671,2012-11-03,New Kendra,20,72,0:3
+672,2012-11-10,Brendaport,99,45,3:1
+673,2012-11-17,New Rhondaberg,16,37,3:1
+674,2012-11-24,West Christyland,36,26,2:3
+675,2012-12-01,Georgetown,14,9,1:3
+676,2012-12-08,Martinberg,26,89,3:2
+677,2012-12-15,West Wesleyport,4,62,3:1
+678,2012-12-22,Port Michael,77,55,2:3
+679,2012-12-29,Yvonneville,94,1,1:3
+680,2013-01-05,New Alexis,38,18,0:3
+681,2013-01-12,Harrismouth,60,51,3:2
+682,2013-01-19,East Christineborough,61,33,3:0
+683,2013-01-26,Jenniferburgh,55,45,3:2
+684,2013-02-02,Duranfort,77,89,3:1
+685,2013-02-09,Port Ryan,28,8,0:3
+686,2013-02-16,Michelleland,76,69,2:3
+687,2013-02-23,Mcgeefort,51,72,2:3
+688,2013-03-02,Sarahmouth,40,2,1:3
+689,2013-03-09,Samuelville,76,21,2:3
+690,2013-03-16,Lisaview,65,4,1:3
+691,2013-03-23,Davidland,17,47,2:3
+692,2013-03-30,West Becky,16,83,3:2
+693,2013-04-06,West Danielside,13,22,3:2
+694,2013-04-13,North Megan,7,16,3:0
+695,2013-04-20,Brandontown,96,38,3:1
+696,2013-04-27,East Kellymouth,44,58,3:1
+697,2013-05-04,Heidichester,29,8,3:2
+698,2013-05-11,New Jasmine,97,43,2:3
+699,2013-05-18,New Julie,38,87,2:3
+700,2013-05-25,Lake Jonathanchester,74,15,0:3
+701,2013-06-01,Jessicaborough,34,9,3:0
+702,2013-06-08,New Crystalburgh,39,42,1:3
+703,2013-06-15,Samanthaland,95,58,1:3
+704,2013-06-22,Brandonchester,11,75,3:1
+705,2013-06-29,West Wyatt,20,71,0:3
+706,2013-07-06,Allenburgh,40,17,3:1
+707,2013-07-13,Katieberg,30,97,3:2
+708,2013-07-20,Lake Tylerburgh,23,11,3:1
+709,2013-07-27,Ashleystad,21,71,3:0
+710,2013-08-03,Crystalview,13,58,1:3
+711,2013-08-10,North Dustinborough,93,12,0:3
+712,2013-08-17,New Ronald,4,38,0:3
+713,2013-08-24,Holtmouth,27,29,2:3
+714,2013-08-31,Terriburgh,43,19,1:3
+715,2013-09-07,Port Jonathan,1,94,3:0
+716,2013-09-14,South Ryan,92,96,1:3
+717,2013-09-21,South Zacharyshire,69,14,3:2
+718,2013-09-28,New Jeremiahbury,6,32,0:3
+719,2013-10-05,West Deanshire,25,22,1:3
+720,2013-10-12,Jessicachester,56,42,3:1
+721,2013-10-19,Stevenview,3,36,3:1
+722,2013-10-26,Port Brent,97,61,3:2
+723,2013-11-02,Jameston,79,36,3:1
+724,2013-11-09,Michaelburgh,3,58,3:1
+725,2013-11-16,South Christopherside,99,26,3:2
+726,2013-11-23,Jordanmouth,87,19,3:2
+727,2013-11-30,Shieldschester,89,64,3:1
+728,2013-12-07,Lake Christopher,94,63,0:3
+729,2013-12-14,Tylerbury,52,1,3:0
+730,2013-12-21,West Jeannefort,38,99,2:3
+731,2013-12-28,Carriechester,13,22,0:3
+732,2014-01-04,North Denise,43,71,3:1
+733,2014-01-11,North Bonnieborough,5,3,1:3
+734,2014-01-18,New Angela,97,67,3:1
+735,2014-01-25,West Carol,63,38,3:1
+736,2014-02-01,Morganview,91,98,3:2
+737,2014-02-08,New Deniseland,14,24,2:3
+738,2014-02-15,Mistyberg,59,83,3:1
+739,2014-02-22,Douglasshire,24,72,1:3
+740,2014-03-01,Lake Susan,8,44,3:2
+741,2014-03-08,North Jessica,35,42,0:3
+742,2014-03-15,Lake Daniellemouth,13,43,0:3
+743,2014-03-22,West Judy,71,21,3:2
+744,2014-03-29,Butlerton,76,90,2:3
+745,2014-04-05,Sarahport,78,74,3:1
+746,2014-04-12,Bryanmouth,87,9,3:1
+747,2014-04-19,Kyleburgh,83,69,0:3
+748,2014-04-26,Ortizside,68,22,3:2
+749,2014-05-03,Port Theresaberg,78,48,2:3
+750,2014-05-10,Lake Anthonyview,79,40,3:0
+751,2014-05-17,North Michaelfort,28,86,0:3
+752,2014-05-24,South Dennis,98,88,3:0
+753,2014-05-31,Sharpton,74,1,0:3
+754,2014-06-07,Port Thomas,76,25,3:2
+755,2014-06-14,Harrellberg,25,19,3:2
+756,2014-06-21,Port Douglasland,67,96,0:3
+757,2014-06-28,Millsmouth,7,14,3:1
+758,2014-07-05,South Katie,44,46,2:3
+759,2014-07-12,East Kathrynberg,65,21,3:2
+760,2014-07-19,North Justin,14,38,0:3
+761,2014-07-26,Lebury,12,5,1:3
+762,2014-08-02,Jasonbury,13,84,3:2
+763,2014-08-09,Lake Ericchester,29,37,3:0
+764,2014-08-16,Erikberg,2,92,2:3
+765,2014-08-23,East Michaelfort,71,29,1:3
+766,2014-08-30,Walterview,53,60,2:3
+767,2014-09-06,South Michelle,81,27,0:3
+768,2014-09-13,Gutierrezborough,64,36,3:1
+769,2014-09-20,Lake Bradleyton,67,83,2:3
+770,2014-09-27,Port Sarahville,7,64,3:2
+771,2014-10-04,New Jenniferton,84,5,2:3
+772,2014-10-11,Kathyberg,23,32,3:1
+773,2014-10-18,Harmonburgh,63,45,2:3
+774,2014-10-25,Timothyshire,96,70,3:0
+775,2014-11-01,Lake Ernest,52,38,3:0
+776,2014-11-08,East Robertview,42,86,2:3
+777,2014-11-15,South Jadechester,42,24,3:1
+778,2014-11-22,Heidifort,10,4,2:3
+779,2014-11-29,Port Brittanytown,89,33,2:3
+780,2014-12-06,Lake Peter,59,91,3:2
+781,2014-12-13,South Codyfurt,33,94,2:3
+782,2014-12-20,Port Jessica,75,25,1:3
+783,2014-12-27,Lake Danielle,42,27,1:3
+784,2015-01-03,West Amandaborough,96,68,3:0
+785,2015-01-10,Port Hannahtown,63,69,0:3
+786,2015-01-17,Chrisborough,1,21,3:1
+787,2015-01-24,Williamsmouth,36,21,1:3
+788,2015-01-31,Salaston,33,54,2:3
+789,2015-02-07,Longtown,83,68,2:3
+790,2015-02-14,Lake Paige,79,60,0:3
+791,2015-02-21,Lake Judy,59,28,3:0
+792,2015-02-28,Sandraberg,37,69,2:3
+793,2015-03-07,Frederickborough,39,25,3:1
+794,2015-03-14,Port Traceytown,22,54,3:2
+795,2015-03-21,Michaelfurt,29,16,3:2
+796,2015-03-28,Loganchester,27,79,1:3
+797,2015-04-04,West Jameshaven,86,93,3:1
+798,2015-04-11,Port Christystad,52,49,3:2
+799,2015-04-18,Sotoville,42,11,2:3
+800,2015-04-25,East Jennifer,87,25,3:0
+801,2015-05-02,South Christopherstad,44,87,3:0
+802,2015-05-09,Jeffreymouth,2,72,3:1
+803,2015-05-16,Collinsshire,29,7,3:1
+804,2015-05-23,Brianstad,28,12,2:3
+805,2015-05-30,Lake Kristen,62,53,1:3
+806,2015-06-06,East Williamside,10,33,3:2
+807,2015-06-13,Port Thomas,8,17,2:3
+808,2015-06-20,South Thomas,24,79,3:2
+809,2015-06-27,Port James,97,51,1:3
+810,2015-07-04,Coryfort,85,28,1:3
+811,2015-07-11,East Leslie,86,64,3:2
+812,2015-07-18,Jeremiahberg,72,8,3:1
+813,2015-07-25,New Bryan,5,57,0:3
+814,2015-08-01,Port Emilymouth,29,10,3:1
+815,2015-08-08,Ashleyburgh,53,75,3:0
+816,2015-08-15,North Staceyburgh,34,25,3:2
+817,2015-08-22,East Samanthaton,45,86,1:3
+818,2015-08-29,West Lydiaview,63,61,3:2
+819,2015-09-05,New Dianeport,75,76,1:3
+820,2015-09-12,Lesliemouth,45,46,3:2
+821,2015-09-19,South Joseph,72,67,2:3
+822,2015-09-26,East Teresachester,57,18,1:3
+823,2015-10-03,North Christopher,33,64,3:2
+824,2015-10-10,East Shawn,8,38,3:1
+825,2015-10-17,Suarezville,39,41,3:0
+826,2015-10-24,Cassandrabury,54,92,3:1
+827,2015-10-31,Kentfurt,68,13,0:3
+828,2015-11-07,Kellyside,61,65,3:0
+829,2015-11-14,Willisberg,95,33,0:3
+830,2015-11-21,Herreraberg,90,87,1:3
+831,2015-11-28,Johnsontown,97,98,0:3
+832,2015-12-05,Alvarezmouth,93,21,3:0
+833,2015-12-12,North Michaelton,12,77,0:3
+834,2015-12-19,Brookeside,17,61,0:3
+835,2015-12-26,Jamesland,54,10,2:3
+836,2016-01-02,East Jonathan,60,67,2:3
+837,2016-01-09,Sarahland,64,59,2:3
+838,2016-01-16,West Jessicaville,7,43,0:3
+839,2016-01-23,Francochester,56,16,3:2
+840,2016-01-30,Lake Sarahmouth,21,74,3:2
+841,2016-02-06,East Jacqueline,100,66,1:3
+842,2016-02-13,Adamchester,12,94,2:3
+843,2016-02-20,Millermouth,98,65,1:3
+844,2016-02-27,Chasebury,64,76,3:0
+845,2016-03-05,New Darrenmouth,18,65,0:3
+846,2016-03-12,Lake Jason,46,39,3:1
+847,2016-03-19,New Amanda,80,31,2:3
+848,2016-03-26,Martinezborough,98,63,3:1
+849,2016-04-02,West Anthonymouth,60,35,3:0
+850,2016-04-09,New Alexanderside,97,71,2:3
+851,2016-04-16,Lake Teresa,58,53,3:1
+852,2016-04-23,Wallaceburgh,29,17,2:3
+853,2016-04-30,West Kathrynview,86,57,1:3
+854,2016-05-07,Raymondland,84,44,3:1
+855,2016-05-14,Trujillostad,47,8,2:3
+856,2016-05-21,Greenbury,20,63,2:3
+857,2016-05-28,Walkerberg,35,39,2:3
+858,2016-06-04,East Susanside,77,24,1:3
+859,2016-06-11,Schneiderstad,11,65,3:2
+860,2016-06-18,Scottborough,79,94,3:2
+861,2016-06-25,North Kathleen,63,47,3:2
+862,2016-07-02,West Garrettton,57,45,2:3
+863,2016-07-09,North Kelly,82,70,1:3
+864,2016-07-16,Kristenberg,92,3,3:2
+865,2016-07-23,Leahland,24,64,2:3
+866,2016-07-30,Webbbury,25,73,3:2
+867,2016-08-06,Espinozaborough,68,8,0:3
+868,2016-08-13,West Hollymouth,93,69,3:1
+869,2016-08-20,Burnsmouth,89,80,3:2
+870,2016-08-27,Kennethmouth,47,15,3:0
+871,2016-09-03,West Robin,91,61,3:2
+872,2016-09-10,East Brandon,49,29,1:3
+873,2016-09-17,West Joseph,18,1,3:0
+874,2016-09-24,Brownborough,9,13,2:3
+875,2016-10-01,East Steven,54,39,0:3
+876,2016-10-08,South Kimberly,3,83,0:3
+877,2016-10-15,Carlstad,50,62,3:1
+878,2016-10-22,East Michelebury,97,24,1:3
+879,2016-10-29,New Sydneychester,4,61,3:2
+880,2016-11-05,Bradybury,64,24,3:0
+881,2016-11-12,Julieborough,54,29,3:1
+882,2016-11-19,Hodgebury,17,37,2:3
+883,2016-11-26,Cynthiafurt,44,15,1:3
+884,2016-12-03,Baileyborough,74,36,0:3
+885,2016-12-10,South Andrew,26,19,1:3
+886,2016-12-17,Jonathanhaven,63,54,3:1
+887,2016-12-24,Port Erica,2,8,0:3
+888,2016-12-31,Port Andrew,92,73,3:1
+889,2017-01-07,Brucefort,12,40,3:2
+890,2017-01-14,West Margaret,5,63,3:0
+891,2017-01-21,East John,82,47,3:0
+892,2017-01-28,North John,46,17,2:3
+893,2017-02-04,Evanstad,80,51,3:0
+894,2017-02-11,Lake Karlburgh,61,13,2:3
+895,2017-02-18,New Dillonton,99,4,3:1
+896,2017-02-25,Kellyshire,51,81,3:2
+897,2017-03-04,Everettburgh,97,38,3:2
+898,2017-03-11,Johnnyburgh,46,38,3:0
+899,2017-03-18,Annburgh,45,58,3:2
+900,2017-03-25,Nicolebury,77,53,1:3
+901,2017-04-01,Sierrachester,56,82,0:3
+902,2017-04-08,Josephside,74,69,3:0
+903,2017-04-15,Port Todd,49,2,2:3
+904,2017-04-22,New Francisco,72,54,2:3
+905,2017-04-29,East Ricky,99,40,0:3
+906,2017-05-06,Port Jodiview,70,95,3:0
+907,2017-05-13,Port James,62,45,3:0
+908,2017-05-20,Susanborough,39,38,3:1
+909,2017-05-27,Robbinsborough,43,32,3:1
+910,2017-06-03,Hallview,4,93,3:1
+911,2017-06-10,Kaitlinstad,88,82,3:1
+912,2017-06-17,Davidfort,98,94,2:3
+913,2017-06-24,Port Micheal,46,26,2:3
+914,2017-07-01,Lake Wesleyborough,36,73,3:0
+915,2017-07-08,New Jessicaberg,19,46,3:1
+916,2017-07-15,Hallchester,77,16,3:0
+917,2017-07-22,Lake Oliviachester,15,100,2:3
+918,2017-07-29,West Angela,13,65,1:3
+919,2017-08-05,Port Justin,98,38,3:0
+920,2017-08-12,South Christopherburgh,75,23,2:3
+921,2017-08-19,Michaelchester,61,65,3:1
+922,2017-08-26,Port Jacquelineberg,7,58,0:3
+923,2017-09-02,Danielsmouth,26,85,3:2
+924,2017-09-09,North Deborahbury,59,53,2:3
+925,2017-09-16,Christopherburgh,40,95,2:3
+926,2017-09-23,East Joseside,94,1,2:3
+927,2017-09-30,Perezberg,12,83,3:2
+928,2017-10-07,Jacquelinehaven,92,28,3:1
+929,2017-10-14,South Donald,3,9,3:0
+930,2017-10-21,West Lindafort,36,80,3:2
+931,2017-10-28,New Davidberg,1,85,3:1
+932,2017-11-04,Danielside,83,47,2:3
+933,2017-11-11,Taylorshire,10,92,3:0
+934,2017-11-18,West Troy,89,19,0:3
+935,2017-11-25,Nashfurt,24,38,3:0
+936,2017-12-02,Lake Debraside,76,82,1:3
+937,2017-12-09,East Mitchellshire,16,86,3:0
+938,2017-12-16,North Joshua,26,39,0:3
+939,2017-12-23,North Deborahville,24,94,2:3
+940,2017-12-30,Davistown,32,18,3:1
+941,2018-01-06,South Matthewland,26,23,3:1
+942,2018-01-13,East Anthony,42,89,3:0
+943,2018-01-20,Mcdanielmouth,58,46,1:3
+944,2018-01-27,Brittanyfurt,92,76,3:1
+945,2018-02-03,East Cole,95,31,0:3
+946,2018-02-10,Port Diana,71,10,2:3
+947,2018-02-17,East Francis,100,20,3:1
+948,2018-02-24,Lake Adam,12,1,2:3
+949,2018-03-03,Coopermouth,72,19,2:3
+950,2018-03-10,Harringtonbury,79,77,0:3
+951,2018-03-17,Myershaven,90,100,3:0
+952,2018-03-24,West Christopherborough,80,7,1:3
+953,2018-03-31,New Michaelburgh,76,8,0:3
+954,2018-04-07,East Matthewchester,5,39,3:1
+955,2018-04-14,Ricefort,41,11,1:3
+956,2018-04-21,Jillstad,52,26,3:2
+957,2018-04-28,West Christopher,16,83,0:3
+958,2018-05-05,Michaelchester,7,3,3:0
+959,2018-05-12,Dianamouth,69,10,3:1
+960,2018-05-19,New Jennifer,21,48,3:1
+961,2018-05-26,Williamfurt,28,89,3:1
+962,2018-06-02,Brooketown,97,79,2:3
+963,2018-06-09,North Melissaburgh,89,60,3:2
+964,2018-06-16,West Thomasmouth,2,26,3:1
+965,2018-06-23,Ramirezborough,65,97,3:2
+966,2018-06-30,Cannonport,80,14,1:3
+967,2018-07-07,Jessicaview,4,34,3:1
+968,2018-07-14,Smithton,77,60,1:3
+969,2018-07-21,Lake Scott,62,72,3:1
+970,2018-07-28,East Lauriemouth,66,72,3:1
+971,2018-08-04,Natashashire,41,55,2:3
+972,2018-08-11,Katherineshire,89,6,1:3
+973,2018-08-18,West Jenniferburgh,21,6,0:3
+974,2018-08-25,Lake Nathanmouth,70,1,2:3
+975,2018-09-01,South Seanfurt,26,56,3:0
+976,2018-09-08,Port Douglas,21,63,1:3
+977,2018-09-15,Port Rachelmouth,14,37,3:2
+978,2018-09-22,East Justin,20,16,0:3
+979,2018-09-29,East Markberg,10,21,3:2
+980,2018-10-06,South Matthewside,90,55,3:0
+981,2018-10-13,Port Amy,87,35,3:1
+982,2018-10-20,South Geraldton,4,10,3:2
+983,2018-10-27,Michaelberg,14,77,3:2
+984,2018-11-03,Reillyview,53,35,1:3
+985,2018-11-10,New Lauraville,14,4,1:3
+986,2018-11-17,North Erik,17,36,0:3
+987,2018-11-24,Johnmouth,17,11,0:3
+988,2018-12-01,Sawyerborough,34,39,3:1
+989,2018-12-08,North Melissamouth,32,47,0:3
+990,2018-12-15,East Vanessastad,38,48,2:3
+991,2018-12-22,Lake Andrewbury,92,56,3:2
+992,2018-12-29,North Sarahaven,50,8,3:1
+993,2019-01-05,Gonzalezview,7,30,3:1
+994,2019-01-12,Anthonyton,13,89,3:2
+995,2019-01-19,Port Michelle,65,93,2:3
+996,2019-01-26,Marcusport,23,39,2:3
+997,2019-02-02,Port Patriciaville,66,67,3:0
+998,2019-02-09,Brandonshire,59,39,3:2
+999,2019-02-16,Millermouth,33,21,3:0
+1000,2019-02-23,Port Michael,97,55,3:0
+1001,2019-03-02,Crawfordside,97,10,2:3
+1002,2019-03-09,Port Carlos,99,1,2:3
+1003,2019-03-16,North Heidi,1,65,3:2
+1004,2019-03-23,New Frank,38,55,3:1
+1005,2019-03-30,Khanmouth,50,93,3:2
+1006,2019-04-06,Timothybury,1,82,2:3
+1007,2019-04-13,East Cassandrahaven,45,56,1:3
+1008,2019-04-20,Rioschester,20,86,2:3
+1009,2019-04-27,Port Patricia,76,12,0:3
+1010,2019-05-04,Port Scott,95,72,1:3
+1011,2019-05-11,New Lisa,37,46,3:1
+1012,2019-05-18,Romanport,8,20,1:3
+1013,2019-05-25,North Philip,59,100,3:2
+1014,2019-06-01,Simpsonburgh,38,97,3:1
+1015,2019-06-08,Elizabethton,58,11,0:3
+1016,2019-06-15,Lake Scott,98,86,3:1
+1017,2019-06-22,Georgechester,100,87,3:1
+1018,2019-06-29,New Shannon,50,13,1:3
+1019,2019-07-06,West David,48,98,1:3
+1020,2019-07-13,Port Andrewport,20,40,1:3
+1021,2019-07-20,East Charles,74,55,2:3
+1022,2019-07-27,New Adamborough,92,52,1:3
+1023,2019-08-03,Bowenchester,57,56,1:3
+1024,2019-08-10,Martintown,25,69,1:3
+1025,2019-08-17,New Ericaland,55,21,1:3
+1026,2019-08-24,South Sally,52,65,2:3
+1027,2019-08-31,Brandonshire,48,24,3:1
+1028,2019-09-07,Lake Eddie,83,49,3:0
+1029,2019-09-14,West Martinside,6,100,0:3
+1030,2019-09-21,North Maryton,51,69,2:3
+1031,2019-09-28,Thomasstad,40,8,2:3
+1032,2019-10-05,Clarkmouth,24,94,3:1
+1033,2019-10-12,North Justin,89,35,2:3
+1034,2019-10-19,East Yvonnemouth,10,86,3:1
+1035,2019-10-26,Wrightport,49,60,3:1
+1036,2019-11-02,Haroldburgh,3,80,3:0
+1037,2019-11-09,Teresaburgh,94,69,1:3
+1038,2019-11-16,Camachoshire,84,44,2:3
+1039,2019-11-23,Chungside,29,17,1:3
+1040,2019-11-30,South Shannonhaven,91,30,1:3
+1041,2019-12-07,Territown,54,65,3:2
+1042,2019-12-14,New Dawnchester,78,60,3:1
+1043,2019-12-21,Lake Kerry,28,31,3:1
+1044,2019-12-28,Richardland,8,39,1:3
+1045,2020-01-04,Cynthiachester,10,61,2:3
+1046,2020-01-11,New Patrickstad,89,83,0:3
+1047,2020-01-18,New Brittanymouth,45,97,0:3
+1048,2020-01-25,South Marc,96,61,0:3
+1049,2020-02-01,North Markborough,27,16,1:3
+1050,2020-02-08,Torresfurt,87,95,3:2
+1051,2020-02-15,Lake Craig,7,72,3:2
+1052,2020-02-22,North Brenda,31,81,3:2
+1053,2020-02-29,Brucetown,82,75,1:3
+1054,2020-03-07,East Doris,16,94,0:3
+1055,2020-03-14,West Carolport,84,14,3:1
+1056,2020-03-21,Williamsfort,71,92,1:3
+1057,2020-03-28,North Thomasmouth,35,8,3:0
+1058,2020-04-04,Oliverville,90,6,2:3
+1059,2020-04-11,Andreaborough,81,89,3:1
+1060,2020-04-18,South Kristinachester,41,35,2:3
+1061,2020-04-25,Paynemouth,10,30,3:2
+1062,2020-05-02,South Victoriamouth,78,26,3:1
+1063,2020-05-09,Andreatown,37,94,1:3
+1064,2020-05-16,Parkerland,13,17,0:3
+1065,2020-05-23,Travisbury,34,88,2:3
+1066,2020-05-30,South Michaelbury,55,90,3:2
+1067,2020-06-06,North Stephaniefurt,28,1,3:0
+1068,2020-06-13,Shirleymouth,10,23,0:3
+1069,2020-06-20,Michaelstad,88,34,3:1
+1070,2020-06-27,Robertview,53,43,3:2
+1071,2020-07-04,Perezstad,54,82,1:3
+1072,2020-07-11,East Amanda,86,94,3:2
+1073,2020-07-18,Matthewmouth,64,10,3:0
+1074,2020-07-25,Vaughnport,20,60,2:3
+1075,2020-08-01,Johnport,32,79,3:0
+1076,2020-08-08,Denniston,30,53,3:0
+1077,2020-08-15,East Michael,44,34,0:3
+1078,2020-08-22,Ginaville,14,62,1:3
+1079,2020-08-29,Lake Ethanfurt,96,53,1:3
+1080,2020-09-05,West Michele,11,18,2:3
+1081,2020-09-12,West David,32,51,3:2
+1082,2020-09-19,Harrischester,66,56,1:3
+1083,2020-09-26,Salinasberg,69,23,3:2
+1084,2020-10-03,Jessicaborough,81,42,1:3
+1085,2020-10-10,Clintonfurt,67,86,3:2
+1086,2020-10-17,Port Mark,17,46,0:3
+1087,2020-10-24,Lewiston,10,53,3:2
+1088,2020-10-31,North Erichaven,20,91,3:2
+1089,2020-11-07,New Kim,51,28,3:2
+1090,2020-11-14,South Michaelmouth,73,50,3:2
+1091,2020-11-21,North Michael,93,99,2:3
+1092,2020-11-28,New Lindsey,58,53,3:1
+1093,2020-12-05,Matthewville,23,49,1:3
+1094,2020-12-12,Patrickside,44,10,0:3
+1095,2020-12-19,Paulview,37,100,3:0
+1096,2020-12-26,Lisaberg,5,13,2:3
+1097,2021-01-02,Jennaville,88,73,2:3
+1098,2021-01-09,Jamesbury,34,90,2:3
+1099,2021-01-16,Mcguireton,75,91,3:0
+1100,2021-01-23,Petersenland,10,69,3:0
+1101,2021-01-30,West Steven,54,42,2:3
+1102,2021-02-06,Martinburgh,9,52,1:3
+1103,2021-02-13,Boyleton,21,51,3:0
+1104,2021-02-20,North Michelle,21,78,0:3
+1105,2021-02-27,West Michaelchester,79,5,2:3
+1106,2021-03-06,Johnton,72,59,2:3
+1107,2021-03-13,Nelsonview,95,92,1:3
+1108,2021-03-20,North William,50,58,3:2
+1109,2021-03-27,Clarenceport,80,92,3:1
+1110,2021-04-03,North Thomas,50,53,1:3
+1111,2021-04-10,South Jodi,83,65,3:2
+1112,2021-04-17,Josephton,25,73,3:1
+1113,2021-04-24,North Jaime,8,26,3:2
+1114,2021-05-01,New Jessica,30,98,3:1
+1115,2021-05-08,Pottsmouth,28,30,3:2
+1116,2021-05-15,Michaelport,21,88,3:2
+1117,2021-05-22,East Hectorshire,40,34,3:0
+1118,2021-05-29,Teresafort,86,8,1:3
+1119,2021-06-05,Leonardland,36,29,3:1
+1120,2021-06-12,Barrystad,88,99,3:0
+1121,2021-06-19,Baileychester,77,72,1:3
+1122,2021-06-26,Davidborough,14,26,3:2
+1123,2021-07-03,Port Chad,10,53,3:0
+1124,2021-07-10,West Hector,71,4,3:2
+1125,2021-07-17,Lehaven,53,86,0:3
+1126,2021-07-24,New Anaborough,83,68,3:2
+1127,2021-07-31,Cindyville,66,16,0:3
+1128,2021-08-07,Marthashire,73,55,3:2
+1129,2021-08-14,Lake Kelly,4,15,3:2
+1130,2021-08-21,Port Adrian,99,32,2:3
+1131,2021-08-28,New Latoyamouth,23,58,3:1
+1132,2021-09-04,Hamiltonfurt,84,73,3:0
+1133,2021-09-11,Anitabury,16,50,3:0
+1134,2021-09-18,Hansenport,2,85,0:3
+1135,2021-09-25,West Christian,60,21,2:3
+1136,2021-10-02,Guerreroland,51,45,3:2
+1137,2021-10-09,Port Erika,12,17,3:0
+1138,2021-10-16,New Chad,94,22,3:0
+1139,2021-10-23,East Jennifer,35,69,3:0
+1140,2021-10-30,Port Coryfurt,10,77,3:2
+1141,2021-11-06,Lake Robert,51,11,0:3
+1142,2021-11-13,East Jamesville,73,19,3:2
+1143,2021-11-20,Josephhaven,58,91,3:0
+1144,2021-11-27,North Barbaraland,86,56,3:0
+1145,2021-12-04,Sherryhaven,5,19,3:0
+1146,2021-12-11,South Dianaland,29,18,1:3
+1147,2021-12-18,Lake Mary,73,33,1:3
+1148,2021-12-25,Donaldside,80,49,3:1
+1149,2022-01-01,West Richard,90,16,0:3
+1150,2022-01-08,Cunninghamland,73,5,3:1
+1151,2022-01-15,Victorchester,89,47,3:2
+1152,2022-01-22,Jonesfurt,41,39,3:0
+1153,2022-01-29,East Catherine,97,67,3:2
+1154,2022-02-05,Montesside,83,99,3:1
+1155,2022-02-12,Bowentown,62,81,3:1
+1156,2022-02-19,Carterburgh,15,62,1:3
+1157,2022-02-26,North Lindsay,88,80,0:3
+1158,2022-03-05,Brittanyland,49,65,0:3
+1159,2022-03-12,Castilloton,16,99,2:3
+1160,2022-03-19,Davidchester,94,56,3:1
+1161,2022-03-26,Aliport,24,97,1:3
+1162,2022-04-02,Wilkersonland,30,77,3:0
+1163,2022-04-09,Christinetown,94,82,3:1
+1164,2022-04-16,Port Michaelchester,24,36,3:2
+1165,2022-04-23,North Anthony,47,5,2:3
+1166,2022-04-30,Paulport,77,36,3:0
+1167,2022-05-07,Ginaberg,56,96,3:2
+1168,2022-05-14,New Carlos,50,94,3:2
+1169,2022-05-21,West Johnmouth,49,53,1:3
+1170,2022-05-28,Stephenshire,54,29,3:0
+1171,2022-06-04,Danielfurt,93,70,3:1
+1172,2022-06-11,Rothberg,26,92,0:3
+1173,2022-06-18,West Monica,18,73,3:2
+1174,2022-06-25,Martinborough,83,27,1:3
+1175,2022-07-02,Josephhaven,29,39,3:1
+1176,2022-07-09,Steeleview,4,29,0:3
+1177,2022-07-16,North Joseph,58,29,3:2
+1178,2022-07-23,Port Richardmouth,19,16,3:1
+1179,2022-07-30,New Bernard,60,13,3:2
+1180,2022-08-06,Dawnside,58,78,3:2
+1181,2022-08-13,Wrightchester,83,15,3:2
+1182,2022-08-20,Charlesland,69,64,2:3
+1183,2022-08-27,South Brianmouth,39,47,3:0
+1184,2022-09-03,South Sherry,83,40,3:2
+1185,2022-09-10,New Stephaniebury,50,10,2:3
+1186,2022-09-17,South Ana,5,89,3:0
+1187,2022-09-24,Davisbury,35,19,3:2
+1188,2022-10-01,New Amber,86,58,3:0
+1189,2022-10-08,East Donna,9,34,3:0
+1190,2022-10-15,North Jonathanton,15,99,3:1
+1191,2022-10-22,Lake Ashleyport,31,79,0:3
+1192,2022-10-29,Anthonyfort,9,73,2:3
+1193,2022-11-05,New Samuel,24,91,2:3
+1194,2022-11-12,Johnsonburgh,57,100,0:3
+1195,2022-11-19,East Victoriaside,15,66,3:0
+1196,2022-11-26,South Ginaview,61,26,0:3
+1197,2022-12-03,Tylerhaven,6,7,2:3
+1198,2022-12-10,New Jacquelineport,84,70,0:3
+1199,2022-12-17,Juliebury,4,82,3:2
+1200,2022-12-24,West Johnathan,97,63,1:3
+1201,2022-12-31,Lake Michaelshire,29,5,3:0
